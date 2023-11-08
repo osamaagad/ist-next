@@ -1,0 +1,57 @@
+/* GENERAL */
+
+body.ar {
+  direction: rtl;
+  text-align: right;
+}
+
+:is(.portfolio,.chose,.contact,.blog-item) .titlepage::before {
+  left: auto;
+  right: 15px;
+}
+
+ul.social_icon li:last-child {
+  padding-right: 15px;
+}
+
+ul.social_icon li:first-child {
+  padding-right: 0;
+}
+
+/* NAVIGATION */
+.navigation.navbar-dark .navbar-nav .nav-link {
+  text-align: right;
+}
+
+/* TOP SECTION */
+
+#myCarousel, .carousel-indicators {
+  margin: 0px auto;
+  
+
+}
+
+
+.banner_main .bluid .read_more {
+  margin-right: 0;
+  margin-left: 8px;
+}
+
+/* Blog SECTION */
+
+.we_box {
+  text-align: right;
+  direction: rtl;
+}
+
+/* FOOTER */
+
+.conta ul li a i {
+  padding-right: 0;
+  padding-left: 8px;
+}
+.carousel-indicators{
+  text-align: center;
+}
+
+/* BLOG */

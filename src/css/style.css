@@ -1286,3 +1286,45 @@ ul.social_icon li a:hover {
      cursor: pointer;
      color: blue;
 }
+
+.row.slide-row {
+     flex-wrap: nowrap;
+     overflow: auto;
+     scroll-behavior: smooth;
+}
+
+@media (max-width: 767px) {
+     .slide-row .col-md-4 {
+          width: calc(100vw - 60px);
+          flex-shrink: 0;
+     }
+}
+
+.row.slide-row::-webkit-scrollbar {
+     width: 0;
+     height: 0;
+}
+
+/* CAROUSEL CUSTOM */
+
+.carousel-buttons-container {
+     display: flex;
+     font-size: 18px;
+     gap: 16px;
+     justify-content: center;
+     padding: 16px 8px;
+}
+
+.carousel-button {
+     background-color: transparent;
+     border: 1px solid #333;
+     padding: 16px;
+     display: flex;
+     gap: 4px;
+     align-items: center;
+     border-radius: 4px;
+}
+
+.carousel-button:hover {
+     background-color: #eee;
+}

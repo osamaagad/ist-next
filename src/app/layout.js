@@ -1,6 +1,6 @@
 import '../css/bootstrap.min.css'
-import '../css/responsive.css'
 import '../css/style.css'
+import '../css/responsive.css'
 
 
 export const metadata = {

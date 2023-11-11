@@ -42,8 +42,7 @@ File Name: responsive.css
         height: 600px;
     }
     .banner_main .bluid h1 {
-        font-size: 62px;
-        line-height: 71px;
+        font-size: 32px;
     }
     .titlepage h2 {
         font-size: 37px;
@@ -87,8 +86,7 @@ File Name: responsive.css
         display: block;
     }
     .banner_main .bluid h1 {
-        font-size: 84px;
-        line-height: 109px;
+        font-size: 32px;
     }
     #we1 a.carousel-control-next,
     #we1 a.carousel-control-prev {
@@ -156,8 +154,7 @@ File Name: responsive.css
         margin-top: 23px
     }
     .banner_main .bluid h1 {
-        font-size: 50px;
-        line-height: 59px;
+        font-size: 18px;
     }
     #top_section {
         height: 678px;

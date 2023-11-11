@@ -8,7 +8,7 @@ export default function NavigationArabic() {
                             <div className="full">
                                 <div className="center-desk">
                                     <div className="logo">
-                                        <a href="/ar/"><img src="/logo.png" alt="#" /></a>
+                                        <a href="/ar/"><img src="/ist-logo.webp" alt="#" /></a>
                                     </div>
                                 </div>
                             </div>

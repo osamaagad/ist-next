@@ -8,7 +8,7 @@ export default function Navigation() {
                             <div className="full">
                                 <div className="center-desk">
                                     <div className="logo">
-                                        <a href="index.html"><img src="/logo.png" alt="#" /></a>
+                                        <a href="index.html"><img src="/ist-logo.webp" height="80" width="80" alt="#" /></a>
                                     </div>
                                 </div>
                             </div>

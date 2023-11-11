@@ -311,11 +311,23 @@ header
 .header {
      width: 100%;
      background: rgba(39, 43, 44, 0.87);
-     height: 106px;
-     padding: 37px 30px;
+     padding: 8px 30px;
      position: absolute;
      z-index: 999;
      box-shadow: 3px 0 13px rgba(30, 30, 30, 0.90);
+}
+
+@media (max-width: 1024px) {
+     .header {
+          padding: 8px;
+     }
+}
+
+@media (min-width: 778px) and(max-width: 1024px) {
+     .navigation.navbar-dark .nav-item a.nav-link {
+          padding-left: 16px;
+          padding-right: 16px;
+     }
 }
 
 
@@ -427,7 +439,7 @@ ul.email li i {
 .banner_main .bluid h1 {
      color: #fff;
      font-size: 60px;
-     line-height: 110px;
+     line-height: 1.2;
      font-weight: bold;
      padding-bottom: 25px;
 }

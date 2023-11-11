@@ -182,7 +182,7 @@ export default function () {
                 <figure>
                   <img
                     className="prot-img"
-                    src="/solar system proj.jpg"
+                    src="/solar-system-proj.jpg"
                     alt="#"
                   />
                   <div className="portfolio_text">
@@ -206,7 +206,7 @@ export default function () {
                 <figure>
                   <img
                     className="prot-img"
-                    src="/Water Treatment proj.jpg"
+                    src="/Water-Treatment-proj.jpg"
                     alt="#"
                   />
                   <div className="portfolio_text">
@@ -230,7 +230,7 @@ export default function () {
                 <figure>
                   <img
                     className="prot-img"
-                    src="/education technology proj.jpg"
+                    src="/education-technology-proj.jpg"
                     alt="#"
                   />
                   <div className="portfolio_text">
@@ -254,7 +254,7 @@ export default function () {
                 <figure>
                   <img
                     className="prot-img"
-                    src="/fire fighting proj.jpg"
+                    src="/fire-fighting-proj.jpg"
                     alt="#"
                   />
                   <div className="portfolio_text">

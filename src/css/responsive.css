@@ -154,7 +154,10 @@ File Name: responsive.css
         margin-top: 23px
     }
     .banner_main .bluid h1 {
-        font-size: 32px;
+        font-size: 28px;
+    }
+    .banner_main .bluid p {
+        font-size: 14px;
     }
     #top_section {
         height: 678px;

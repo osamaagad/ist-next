@@ -469,7 +469,7 @@ ul.email li i {
 
 .we_do {
      background: #fff;
-     padding: 90px 0 190px 0;
+     padding: 140px 0 190px 0;
 }
 
 .we_do .titlepage::before {
@@ -1327,4 +1327,26 @@ ul.social_icon li a:hover {
 
 .carousel-button:hover {
      background-color: #eee;
+}
+
+/* PRODUCTS */
+
+.productsPage {
+     padding: 140px 8px;
+     display: grid;
+     justify-content: center;
+     grid-template-columns: 300px 300px;
+     gap: 16px;
+}
+
+@media (max-width: 767px) {
+     .productsPage {
+          grid-template-columns: 1fr;
+     }
+}
+
+.productSection {
+     text-align: center;
+     border: 1px solid #ddd;
+     border-radius: 8px;
 }

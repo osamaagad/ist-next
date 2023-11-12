@@ -8,7 +8,7 @@ export default function Navigation() {
                             <div className="full">
                                 <div className="center-desk">
                                     <div className="logo">
-                                        <a href="index.html"><img src="/ist-logo.webp" height="80" width="80" alt="#" /></a>
+                                        <a href="/"><img src="/ist-logo.webp" height="80" width="80" alt="#" /></a>
                                     </div>
                                 </div>
                             </div>
@@ -21,19 +21,22 @@ export default function Navigation() {
                                 <div className="collapse navbar-collapse" id="navbarsExample04">
                                     <ul className="navbar-nav mr-auto">
                                         <li className="nav-item active">
-                                            <a className="nav-link" href="index.html">Home</a>
+                                            <a className="nav-link" href="/">Home</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="about.html">About</a>
+                                            <a className="nav-link" href="/products">Products</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="./blog/index.html">Blog</a>
+                                            <a className="nav-link" href="/about">About</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="portfolio.html">Portfolio </a>
+                                            <a className="nav-link" href="/blog">Blog</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="contact.html">Contact Us</a>
+                                            <a className="nav-link" href="/portfolio">Portfolio </a>
+                                        </li>
+                                        <li className="nav-item">
+                                            <a className="nav-link" href="/products">Contact Us</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -42,9 +45,9 @@ export default function Navigation() {
                         <div className="col-md-2 d_none">
                             <ul className="email text_align_right">
 
-                                {/* <li> <a href="Javascript:void(0)"> Login </a></li> */}
+                                {/* <li> <a href="#"> Login </a></li> */}
                                 <li> <a href="/ar/">عربي</a></li>
-                                {/* <li> <a href="Javascript:void(0)"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
+                                {/* <li> <a href="#"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
                             </ul>
                         </div>
                     </div>

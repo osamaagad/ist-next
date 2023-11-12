@@ -187,8 +187,8 @@ export default function () {
                   />
                   <div className="portfolio_text">
                     <div className="li_icon">
-                      {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                              <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
                     <h3>SOLAR SYSTEMS</h3>
                     <p>
@@ -211,8 +211,8 @@ export default function () {
                   />
                   <div className="portfolio_text">
                     <div className="li_icon">
-                      {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                              <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
                     <h3>WATER TREATMENT</h3>
                     <p>
@@ -235,8 +235,8 @@ export default function () {
                   />
                   <div className="portfolio_text">
                     <div className="li_icon">
-                      {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                              <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
                     <h3>EDUCATIONAL TECHNOLOGY</h3>
                     <p>
@@ -259,8 +259,8 @@ export default function () {
                   />
                   <div className="portfolio_text">
                     <div className="li_icon">
-                      {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                              <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
                     <h3>FIRE FIGHTING</h3>
                     <p>
@@ -297,7 +297,7 @@ export default function () {
                 </i>
                 <h3>Project Done </h3>
                 <strong>1000+</strong>
-                <a className="read_more" href="Javascript:void(0)">
+                <a className="read_more" href="#">
                   Read More
                 </a>
               </div>
@@ -309,7 +309,7 @@ export default function () {
                 </i>
                 <h3>Happy Clients </h3>
                 <strong>900+</strong>
-                <a className="read_more" href="Javascript:void(0)">
+                <a className="read_more" href="#">
                   Read More
                 </a>
               </div>
@@ -321,7 +321,7 @@ export default function () {
                 </i>
                 <h3>Awards</h3>
                 <strong>100+</strong>
-                <a className="read_more" href="Javascript:void(0)">
+                <a className="read_more" href="#">
                   Read More
                 </a>
               </div>
@@ -369,7 +369,6 @@ export default function () {
                       className="textarea"
                       placeholder="Message"
                       type="type"
-                      Message="Name"
                     ></textarea>
                   </div>
                   <div className="col-md-12">

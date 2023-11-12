@@ -8,7 +8,7 @@ export default function NavigationArabic() {
                             <div className="full">
                                 <div className="center-desk">
                                     <div className="logo">
-                                        <a href="/ar/"><img src="/ist-logo.webp" alt="#" /></a>
+                                        <a href="/ar/"><img src="/ist-logo.webp" width="80" height="80" alt="#" /></a>
                                     </div>
                                 </div>
                             </div>
@@ -25,16 +25,19 @@ export default function NavigationArabic() {
                                             <a className="nav-link" href="/ar/">الرئيسية</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="/ar/about.html">من نحن</a>
+                                            <a className="nav-link" href="/ar/products">منتجات</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="./blog-ar/index.html">المدونة</a>
+                                            <a className="nav-link" href="/ar/about">من نحن</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="/ar/portfolio.html">مشاريعنا</a>
+                                            <a className="nav-link" href="/ar/blog">المدونة</a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="/ar/contact.html">اتصل بنا</a>
+                                            <a className="nav-link" href="/ar/portfolio">مشاريعنا</a>
+                                        </li>
+                                        <li className="nav-item">
+                                            <a className="nav-link" href="/ar/contact">اتصل بنا</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -43,9 +46,9 @@ export default function NavigationArabic() {
                         <div className="col-md-2 d_none">
                             <ul className="email text_align_right">
 
-                                {/* <li> <a href="Javascript:void(0)"> Login </a></li> */}
-                                <li> <a href="../index.html">English</a></li>
-                                {/* <li> <a href="Javascript:void(0)"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
+                                {/* <li> <a href="#"> Login </a></li> */}
+                                <li> <a href="/">English</a></li>
+                                {/* <li> <a href="#"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
                             </ul>
                         </div>
                     </div>

@@ -1,7 +1,7 @@
 import NavigationArabic from "@/components/NavigationArabic";
-import "../../css/arabic.css";
 import FooterArabic from "@/components/FooterArabic";
 import { Cairo } from "next/font/google";
+import "../../css/arabic.css";
 
 const inter = Cairo({
   subsets: ["latin"],

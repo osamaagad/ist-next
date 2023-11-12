@@ -65,7 +65,7 @@ export default function Footer() {
                 <ul>
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       {" "}
                       <i
                         className="fa fa-map-marker"
@@ -88,7 +88,7 @@ export default function Footer() {
                   </li>
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       {" "}
                       <i className="fa fa-envelope" aria-hidden="true"></i>{" "}
                       info@ist-energy.com
@@ -112,19 +112,19 @@ export default function Footer() {
                 <ul className="social_icon text_align_center">
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       <i className="fa fa-facebook-f"></i>
                     </a>
                   </li>
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       <i className="fa fa-twitter"></i>
                     </a>
                   </li>
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       <i
                         className="fa fa-linkedin-square"
                         aria-hidden="true"
@@ -133,13 +133,13 @@ export default function Footer() {
                   </li>
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       <i className="fa fa-instagram" aria-hidden="true"></i>
                     </a>
                   </li>
                   <li>
                     {" "}
-                    <a href="Javascript:void(0)">
+                    <a href="#">
                       <i className="fa fa-youtube-play" aria-hidden="true"></i>
                     </a>
                   </li>

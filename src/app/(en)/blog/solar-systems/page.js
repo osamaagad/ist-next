@@ -13,7 +13,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Solar 1234"
-          href="/blog/solar-systems"
+          href="/blog/solar-systems/on-grid-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil

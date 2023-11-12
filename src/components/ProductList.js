@@ -2,10 +2,13 @@
 
 import { useState } from "react";
 
+const pageSize = 16;
+
 export default function ProductList({
   products
 }) {
   const [activeFilters, setActiveFilters] = useState([]);
+  const [page, setPage] = useState(1);
   const tags = products.reduce((acc, p) => {
     p.tags.forEach(t => {
       acc[t] = acc[t] ? acc[t] + 1 : 1;
@@ -24,6 +27,10 @@ export default function ProductList({
   const filteredProducts = products.filter(p => {
     return !activeFilters.length || p.tags.some(t => activeFilters.includes(t));
   });
+  const numberOfPages = Math.ceil(filteredProducts.length / pageSize);
+
+  const productStart = pageSize * (page - 1);
+  const visibleProducts = filteredProducts.slice(productStart, productStart + pageSize);
 
   return <div className="mainSplit">
       <aside className="productTags">
@@ -34,11 +41,21 @@ export default function ProductList({
           </div>)}
         </div>
       </aside>
-      <main className="productList">
-        {filteredProducts.map(p => <div className="productItem">
-          <img src={p.imgUrl} width="150" height="150" />
-          <p>{p.name}</p>
-        </div>)}
+
+      <main>
+        <div className="productList">
+          {visibleProducts.map(p => <a href={p.href} className="productItem" key={Math.random()}>
+            <img src={p.imgUrl} width="150" height="150" />
+            <p>{p.name}</p>
+          </a>)}
+        </div>
+
+        <div className="productPagination">
+          {Array.from({ length: numberOfPages }).map((_, i) => <button
+            key={i}
+            onClick={() => setPage(i + 1)}
+            className={`productPageButton ${page === i + 1 ? 'productPageButtonActive' : ''}`}>{i + 1}</button>)}
+        </div>
       </main>
     </div>
 }

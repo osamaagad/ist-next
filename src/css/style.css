@@ -1429,3 +1429,64 @@ ul.social_icon li a:hover {
      margin-bottom: 32px;
      font-weight: bold;
 }
+
+.productPagination {
+     padding: 32px;
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     gap: 8px;
+}
+
+.productPageButton {
+     background-color: transparent;
+     border: 1px solid currentColor;
+     color: #333;
+     border-radius: 4px;
+     padding: 8px;
+     width: 40px;
+}
+
+.productPageButtonActive {
+     font-weight: bold;
+     background: #333;
+     color: #aaa;
+}
+
+/* PRODUCT PAGE */
+
+.productDetails {
+     padding: 140px 8px;
+     max-width: 800px;
+     margin: 0 auto;
+}
+
+.pdSplit {
+     display: grid;
+     grid-template-columns: 1fr 1fr;
+     justify-content: center;
+     gap: 32px;
+     margin-bottom: 32px;
+}
+
+@media (max-width: 900px) {
+     .pdSplit {
+          grid-template-columns: 1fr;
+     }
+}
+
+.pdActiveImage {
+     margin-bottom: 16px;
+     object-fit: contain;
+}
+
+.pdImageList {
+     display: flex;
+     flex-wrap: wrap;
+     gap: 8px;
+}
+
+.pdImgButton {
+     border: 1px solid #ddd;
+     padding: 0;
+}

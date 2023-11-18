@@ -5,6 +5,10 @@ body.ar {
   text-align: right;
 }
 
+.bluid {
+  font-family: inherit;
+}
+
 :is(.portfolio,.chose,.contact,.blog-item) .titlepage::before {
   left: auto;
   right: 15px;
@@ -63,4 +67,9 @@ ul.social_icon li:first-child {
     border-right: none;
     border-left: 2px solid #aaa;
   }
+}
+
+.we_box .read_more {
+  align-self: flex-end;
+  margin: 0;
 }

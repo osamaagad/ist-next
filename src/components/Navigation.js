@@ -46,7 +46,7 @@ export default function Navigation() {
                             <ul className="email text_align_right">
 
                                 {/* <li> <a href="#"> Login </a></li> */}
-                                <li> <a href="/ar/">عربي</a></li>
+                                <li> <a href="/ar">عربي</a></li>
                                 {/* <li> <a href="#"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
                             </ul>
                         </div>

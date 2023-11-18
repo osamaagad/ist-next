@@ -13,7 +13,7 @@ export default function BlogItem({ title, text, src, href }) {
             {text}
           </p>
           <a href="./Fire-fighting-&-alrme.html" className="blog-item__link">
-            Read more
+            إ قــرا المزيد
           </a>
         </div>
       </div>

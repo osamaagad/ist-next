@@ -6,13 +6,13 @@ export default function BlogPage() {
         <div className="row">
            <div className="col-md-12">
               <div className="titlepage text_align_center">
-                 <h2>Blog</h2>
+                 <h2>المدونه</h2>
               </div>
            </div>
         </div>
 
         <BlogItem
-          title="Solar systems"
+          title="أنظمه الطاقه الشمسيه"
           href="/ar/blog/solar-systems"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
@@ -22,7 +22,7 @@ export default function BlogPage() {
         />
 
         <BlogItem
-          title="Water treatment"
+          title="معالجه المياه"
           href="/ar/blog/water-treatment"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
@@ -32,7 +32,7 @@ export default function BlogPage() {
         />
 
         <BlogItem
-          title="Educational technology"
+          title="تكنولوجيا التعليم"
           href="/ar/blog/educational-technology"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
@@ -42,7 +42,7 @@ export default function BlogPage() {
         />
 
         <BlogItem
-          title="Fire fighting systems"
+          title="انظمه مكافحه وانذار الحريق"
           href="/ar/blog/fire-fighting-systems"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores

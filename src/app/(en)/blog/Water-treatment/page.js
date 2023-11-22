@@ -26,7 +26,7 @@ export default function BlogPage() {
         />
 
         <BlogItem
-          title="Educational technology"
+          title="Water treatment plants (wells - groundwater - seawater)"
           href="/blog/Water treatment/Water-treatment-plants"
           text="ECORD Consulting Company designs and supervises the implementation of water treatment plants (wells - groundwater - seawater) with various production capacities. All accessories for the water treatment units are equipped with water networks (drainage and drinking)."
           src="/prot1.jpg"

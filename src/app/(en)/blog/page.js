@@ -23,7 +23,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Water treatment"
-          href="/blog/Water treatment"
+          href="/blog/Water-treatment"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -33,7 +33,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Educational technology"
-          href="/blog/Educational Technology"
+          href="/blog/Educational-technology"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -43,7 +43,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Fire fighting systems"
-          href="/blog/Fire fighting&alrm"
+          href="/blog/Fire-fighting-&-alarm"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil

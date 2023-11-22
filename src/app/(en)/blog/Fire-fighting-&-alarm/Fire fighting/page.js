@@ -12,8 +12,18 @@ export default function BlogPage() {
         </div>
 
         <BlogItem
-          title="Solar 1234"
-          href="/blog/solar-systems/on-grid-system"
+          title="Fire Fighting"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/Water-extinguishing-system"
+          text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
+          obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
+          modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
+          doloribus."
+          src="/prot1.jpg"
+        />
+
+<BlogItem
+          title="Fire Fighting"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/gas-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -22,8 +32,8 @@ export default function BlogPage() {
         />
 
         <BlogItem
-          title="Water treatment"
-          href="/blog/water-treatment"
+          title="Fire Fighting"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/Foam-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -32,18 +42,8 @@ export default function BlogPage() {
         />
 
         <BlogItem
-          title="Educational technology"
-          href="/blog/educational-technology"
-          text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
-          obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
-          modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
-          doloribus."
-          src="/prot1.jpg"
-        />
-
-        <BlogItem
-          title="Fire fighting systems"
-          href="/blog/fire-fighting-systems"
+          title="Fire Fighting"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/Powder-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil

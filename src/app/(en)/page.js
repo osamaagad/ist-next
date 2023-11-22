@@ -309,6 +309,57 @@ export default function () {
               <i>
                 <img
                   className="tem"
+                  src="/solar-panel-icon.png"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                SOLAR SYSTEMS
+                <br />
+                Tracking system
+              </h3>
+              <p>
+                he purpose of the fire-fighting check is to
+                protect lives and property. The state forces the
+                owner of establishments, companies and factories
+                to implement a f
+              </p>
+              <a className="read_more" href="we_do">
+                Read More
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_left">
+              <i>
+                <img
+                  className="tem"
+                  src="/solar-panel-icon.png"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                SOLAR SYSTEMS
+                <br />
+                inverter cabinet
+              </h3>
+              <p>
+                The purpose of the fire-fighting check is to
+                protect lives and property. The state forces the
+                owner of establishments, companies and factories
+                to implement a fire-fighting system in the
+                building
+              </p>
+              <a className="read_more" href="we_do">
+                Read More
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_left">
+              <i>
+                <img
+                  className="tem"
                   src="/wind energy.jpg"
                   alt="#"
                 />
@@ -582,57 +633,7 @@ export default function () {
               </a>
             </div>
           </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_left">
-              <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                SOLAR SYSTEMS
-                <br />
-                Tracking system
-              </h3>
-              <p>
-                he purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a f
-              </p>
-              <a className="read_more" href="we_do">
-                Read More
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_left">
-              <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                SOLAR SYSTEMS
-                <br />
-                inverter cabinet
-              </h3>
-              <p>
-                The purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a fire-fighting system in the
-                building
-              </p>
-              <a className="read_more" href="we_do">
-                Read More
-              </a>
-            </div>
-          </div>
+          
           {/* <!-- <div className="col-md-4">
                                        <div id="bo_ho" className="we_box text_align_left">
                                           <i><img className="tem"src="/fire alarm.jpg" alt="#"/></i>

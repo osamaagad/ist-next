@@ -158,17 +158,12 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                On-Grid
+                النظام المتصل بالشبكه
               </h3>
               <p>
-                On-Grid systems are solar systems that generate
-                energy only when they are connected to the
-                public electrical power network. They are
-                stations that can be installed in all
-                facilities, homes, schools, factories,
-                hospitals...etc
+              أنظمة On-Grid   هي أنظمة شمسية تعمل على توليد الطاقة فقط عندما تكون مربوطة على شبكة الطاقة الكهربائية   العامة و هي محطات يمكن تركيبها  لجميع المنشأت , منازل , مدارس , مصانع , مستشفيات .. و غيرها 
               </p>
               <a className="read_more" href="./blog/index.html">
                 اقرأ المزيد
@@ -185,15 +180,12 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                Off-Grid
+                النظام غير المتصل بالشبكه
               </h3>
               <p>
-                These systems are designed for situations that
-                are not connected to the electricity grid, and
-                they provide you with energy by converting the
-                energy generated from solar panels
+              تصمم تلك الأنظمة للحالات الغير متصلة بشبكة الكهرباء و هي تزودك بالطاقة عن طريق تحويل الطاقة  المولدة من ألواح الطاقة الشمسية و التي يتم تحويلها الي  كهرباء  و يتم تخزينها  في بطاريات عبر محول كهربائي 
               </p>
               <a className="read_more" href="we_do">
                 إقــــرأ  المزيد
@@ -210,16 +202,12 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                Solar Pump
+                أنظمه الري
               </h3>
               <p>
-                There is no doubt that IST is solutions for
-                operating water wells with solar energy instead
-                of diesel or government electricity are the
-                ideal way to properly invest capital, as it is
-                recovered in a period not exceeding two years
+               مما لا شك فيه فإن حلول شركة آي إس تي  لتشغيل آبار المياه بالطاقة الشمسية  بديلا عن الديزل أو الكهرباء الحكومية  هي الطريقة المثلى للاستثمار السليم لرأس المال حيث يتم استرداده  في مدة  لا تتخطى عامين
               </p>
               <a className="read_more" href="we_do">
                 إقــــرأ  المزيد
@@ -236,15 +224,12 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                Solar Heat
+                السخانات الشمسيه
               </h3>
               <p>
-                Solar heaters are considered an inexpensive way
-                to exploit the heat resulting from sunlight and
-                convert it to benefit by heating the water
-                inside the solar heater
+              تعتبر السخانات الشمسية وسيلة غير مكلفة لاستغلال الحرارة الناتجة من أشعة الشمس وتحويلها للاستفادة منها من خلال تسخين الماء الموجود بداخل السخان الشمسي
               </p>
               <a className="read_more" href="we_do">
                 إقــــرأ  المزيد
@@ -261,15 +246,12 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                Solar Light
+                أنظمه الأضاءه 
               </h3>
               <p>
-                IST offers lighting systems that operate
-                automatically with sunset. They are independent
-                from the network and do not require additional
-                costs
+              تقدم شركة آي إس تي انظمة اضاءة تعمل بشكل تلقائي مع غروب الشمس  و هي أنظمة مستقلة عن الشبكة و لا تحتاج تكاليف اضافيه و تتضمن كشافات ليد مختلفة القدرة و شدة الاضاءة حسب حاجة العميل و مكان التركيب   متصل ببطاريات مدمجة أو منفصلة  حسب نوع التطبيق 
               </p>
               <a className="read_more" href="we_do">
                 إقــــرأ  المزيد
@@ -286,294 +268,12 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                Battery bank
+                بنوك الطاقه 
               </h3>
               <p>
-                Your battery storage needs to be large enough to
-                supply power year-round. Nothing is more
-                frustrating than suffering a power outage
-                because your battery bank doesnit store enough
-                charge
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/wind energy.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                WIND ENERGY
-                <br /> Wind Turbines{" "}
-              </h3>
-              <p>
-                Wind power is the use of air flow through wind
-                turbines to mechanically power generators for
-                electricity. Like our solar farms, wind farms
-                connect multiple turbines directly to the power
-                grid
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                WATER TREATMENT
-                <br />
-                Sewage Water Treatment{" "}
-              </h3>
-              <p>
-                We design and supervise the implementation of
-                sewage treatment plants for various production
-                capacities, and we can provide solutions and
-                studies for sewage treatment plants for small
-                and large residential complexes
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                WATER TREATMENT
-                <br />
-                Industrial Waste Treatment
-              </h3>
-              <p>
-                We design, construct, operate and maintain
-                industrial waste water treatment plants
-                resulting from different factories and for
-                different production capacities and different
-                pollutants (Industries A - B - C).
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                WATER TREATMENT
-                <br />
-                Water Treatment Plants{" "}
-              </h3>
-              <p>
-                ECORD Consulting Company designs and supervises
-                the implementation of water treatment plants
-                (wells - groundwater - seawater) with various
-                production capacities
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                WATER TREATMENT
-                <br />
-                Water Levers{" "}
-              </h3>
-              <p>
-                Design and supervise the implementation of all
-                levers (sanitary, industrial, and drinking).
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                EDUCATIONAL TECHNOLOGY
-                <br />
-                Interactive Educational Screens{" "}
-              </h3>
-              <p>
-                It is the latest technology in the field of
-                smart education. As it is a touch screen and the
-                operating system is Android that can be run on
-                the Windows operating system
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                EDUCATIONAL TECHNOLOGY
-                <br />
-                Projectors
-              </h3>
-              <p>
-                The projector device is an optical electronic
-                device that is used to better display data,
-                using images and videos. It is also called a
-                data display device or Multimedia Projector Data
-                show
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                EDUCATIONAL TECHNOLOGY
-                <br />
-                Smart boards
-              </h3>
-              <p>
-                It is a multi-use active interactive whiteboard.
-                It is accompanied by digital pens and an
-                electronic eraser. This whiteboard is connected
-                to the computer and a projector device and turns
-                into a giant computer screen
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                EDUCATIONAL TECHNOLOGY
-                <br />
-                Maintenance
-              </h3>
-              <p>
-                All of these smart solutions are available, and
-                an authorized maintenance center is also
-                available to maintain all devices and provide
-                all spare parts
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/Fire fighting.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                FIRE FIGHTING
-                <br /> development
-              </h3>
-              <p>
-                The purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a fire-fighting system in the
-                building
-              </p>
-              <a className="read_more" href="we_do">
-                إقــــرأ  المزيد
-              </a>
-            </div>
-          </div>
-          <div className="col-md-4">
-            <div id="bo_ho" className="we_box text_align_right">
-              <i>
-                <img
-                  className="tem"
-                  src="/fire alarm.jpg"
-                  alt="#"
-                />
-              </i>
-              <h3>
-                FIRE ALARM
-                <br />
-                development
-              </h3>
-              <p>
-                The purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a fire-fighting system in the
-                building
+              تعد أنظمة تخزين الطاقة  أحد المكونات الأكثر تعقيدًا وتكلفة لأي نظام طاقة خارج الشبكة. يجب أن تكون سعة تخزين البطارية كبيرة بما يكفي لتوفير الطاقة طوال العام
               </p>
               <a className="read_more" href="we_do">
                 إقــــرأ  المزيد
@@ -590,9 +290,9 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                Tracking system
+                أنظمه المتابعه الشمسيه
               </h3>
               <p>
                 he purpose of the fire-fighting check is to
@@ -615,9 +315,9 @@ export default function () {
                 />
               </i>
               <h3>
-                SOLAR SYSTEMS
+                أنظمه الطاقه الشمسيه
                 <br />
-                inverter cabinet
+                لوحات الأنفرتر
               </h3>
               <p>
                 The purpose of the fire-fighting check is to
@@ -631,26 +331,248 @@ export default function () {
               </a>
             </div>
           </div>
-          {/* <!-- <div className="col-md-4">
-                                       <div id="bo_ho" className="we_box text_align_right">
-                                          <i><img className="tem"src="/fire alarm.jpg" alt="#"/></i>
-                                          <h3>FIRE ALARM<br />development</h3>
-                                          <p>The purpose of the fire-fighting check is to protect lives and property. The state forces the owner of establishments, companies and factories to implement a fire-fighting system in the building
-                                          </p>
-                                          <a className="read_more" href="we_do">إقــــرأ  المزيد</a>
-                                       </div>
-                                    </div> --> */}
-          {/* <!-- <div className="col-md-4">
-                                       <div id="bo_ho" className="we_box text_align_right">
-                                             <i><img className="tem"src=".././images/solar-panel-icon.png" alt="#"/></i>
-                                             <h3>SOLAR SYSTEMS<br />Tracking system</h3>
-                                             <p>he purpose of the fire-fighting check is to protect lives and property. The
-                                                state forces the owner of establishments, companies and factories to implement
-                                                a f
-                                             </p>
-                                             <a className="read_more" href="we_do">إقــــرأ  المزيد</a>
-                                          </div>
-                                    </div> --> */}
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/wind energy.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                طاقه الرياح 
+                <br />الطوربينات الهوائيه{" "}
+              </h3>
+              <p>
+              طاقة الرياح هي توظيف جريان الهواء من خلال توربينات الرياح لتشغيل المولدات ميكانيكياً كي تولد الكهرباء. وكحقول الطاقة الشمسية، تربط حقول طاقة الرياح عدة توربينات بشبكة الكهرباء بشكل مباشر لتحل محلّ محطات توليد الطاقة التقليدية
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/water-treatment.png"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                معالجه المياه
+                <br />
+                 معالجه الصرف الصحي {" "}
+              </h3>
+              <p>
+              نقوم بتصميم و اشراف علي تنفيذ محطات معالجة مياه الصرف الصحى لمختلف الطاقات الانتاجية ويمكننا تقديم الحلول والدراسات لمحطات معالجة الصرف الصحي للتجمعات السكنية الصغيرة والكبيرة 
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/water-treatment.png"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                معالجه المياه
+                <br />
+                معالجه الصرف الصناعي 
+              </h3>
+              <p>
+                 بتصميم و إنشاء و تشغيل و صيانة محطات معالجة مياه النفايات الصناعية الناتجة من المصانع المختلفة و لمختلف الطاقات الانتاجية ومختلف الملوثات 
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/water-treatment.png"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                معالجه المياه
+                <br />
+                أنظمه نتقيه وتحليه و معالجه المياه {" "}
+              </h3>
+              <p>
+              نقوم بتصميم و اشراف علي تنفيذ محطات مياه الشرب لمختلف الطاقات النتاجية حيث يتم فلترة و تعقيم المياه الخام باحدث الطرق الحديثة وتشمل وحدة الترسيب و التجميع و وحدة الترشيح و وحدة التعقيم و كذلك أعادة التدوير ضمن المنظومة 
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/water-treatment.png"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                معالجه المياه
+                <br />
+                روافع المياه{" "}
+              </h3>
+              <p>
+              تصميم و اشراف علي التنفيذ لكافة الروافع  صحي و صناعي و شرب 
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/education-technology.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                تكنولوجيا التعليم
+                <br />
+                شاشات تعليمية تفاعلية{" "}
+              </h3>
+              <p>
+              وهي أحدث التقنيات في مجال التعليم الذكي. إنها شاشة تعمل باللمس ونظام التشغيل هو اندريود يمكن تشغيله على نظام التشغيل ويندوز ، كما أنها مزودة بنظام تعليمي متكامل لمساعدة المعلم على الارتقاء بمستوى العملية التعليمية إلى مستوى آخر
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/education-technology.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                تكنولوجيا التعليم
+                <br />
+                البروجيكتور 
+              </h3>
+              <p>
+              وهي الأجهزة التي تعرض الصور بمساحات كبيرة ويمكن إضافة السبورة الذكية والكمبيوتر لتحويل النظام إلى نظام تفاعلي بالكامل
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/education-technology.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                تكنولوجيا التعليم
+                <br />
+                السبورات الذكية
+              </h3>
+              <p>
+              وهي عبارة عن لوحة ذكية يتم توصيلها بالكمبيوتر وتعرض صورة جهاز العرض عليها، ويمكنك التفاعل مع المحتوى المعروض من خلال اللمس
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/education-technology.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                تكنولوجيا التعليم
+                <br />
+                الصيانه
+              </h3>
+              <p>
+              كل هذه الحلول الذكية متوفرة، كما يتوفر مركز صيانة معتمد لصيانة كافة الأجهزة وتوفير كافة قطع الغيار
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/Fire fighting.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                أنظمه مكافحه الحريق
+                <br />تصميم وتركيب وتشغيل وصيانه
+              </h3>
+              <p>
+              ان الغرض من شبكه مكافحه الحريق هوه حمايه الارواح والممتلكات وتجبر الدوله ماللك المنشأت والشركات والمصانع بالقيان بعمل نظام مكافحه حريق بالمبني وذلك للحصول علي ترخيص لاقامه المبني
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
+          <div className="col-md-4">
+            <div id="bo_ho" className="we_box text_align_right">
+              <i>
+                <img
+                  className="tem"
+                  src="/fire alarm.jpg"
+                  alt="#"
+                />
+              </i>
+              <h3>
+                أنظمه إنذار الحريق
+                <br />
+                تصميم وتركيب وتشغيل وصيانه
+              </h3>
+              <p>
+              ان الغرض من نظام انذار الحريق هوه التنبيه بوجود حريق فى بداياته قبل ان ينتشر ليسهل التعامل معه لذلك فهوه موجه اغلب الوقت للبشر العاملين بالموقع وايضا لتبليغ اقرب مكان للحمايه المدنيه(المطافي) بطريقه اوتوماتيكيه 
+وايضا يستفاد من انظام انذار الحريق فى ايقاف وتشغيل بعد المعدات لحرمان الحريق من الاكسجين بقدر الامكان
+
+              </p>
+              <a className="read_more" href="we_do">
+                إقــــرأ  المزيد
+              </a>
+            </div>
+          </div>
         </>
       </SlideSection>
       {/* <!-- about --> */}
@@ -694,7 +616,7 @@ export default function () {
                       {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
                               <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
-                    <h3>SOLAR SYSTEMS</h3>
+                    <h3>أنظمه الطاقه الشمسيه</h3>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majoraity have suffered alteration in
@@ -718,7 +640,7 @@ export default function () {
                       {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
                               <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
-                    <h3>WATER TREATMENT</h3>
+                    <h3>معالجه المياه</h3>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majoraity have suffered alteration in
@@ -742,7 +664,7 @@ export default function () {
                       {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
                               <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
                     </div>
-                    <h3>EDUCATIONAL TECHNOLOGY</h3>
+                    <h3>تكنولوجيا التعليم</h3>
                     <p>
                       There are many variations of passages of Lorem Ipsum
                       available, but the majoraity have suffered alteration in

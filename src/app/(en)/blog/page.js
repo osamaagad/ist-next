@@ -18,7 +18,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/blog-solar.jpg"
         />
 
         <BlogItem
@@ -28,7 +28,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/blod-water.webp"
         />
 
         <BlogItem
@@ -38,7 +38,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/blog-Education.jpg"
         />
 
         <BlogItem
@@ -48,7 +48,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/blog-fire-fighting.jpg"
         />
      </div>
   </div>

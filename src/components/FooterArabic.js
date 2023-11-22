@@ -15,10 +15,13 @@ export default function FooterArabic() {
                     </div> */}
             <div className="col-md-3 col-sm-6">
               <div className="Informa helpful">
-                <h3>Useful Link</h3>
+                <h3>صفحات قد تفيدك</h3>
                 <ul>
                   <li>
                     <a href="/ar/">الرئيسية</a>
+                  </li>
+                  <li>
+                    <a href="/ar/">منتجات</a>
                   </li>
                   <li>
                     <a href="/ar/about.html">من نحن</a>
@@ -29,15 +32,12 @@ export default function FooterArabic() {
                   <li>
                     <a href="/ar/portfolio.html">مشاريعنا</a>
                   </li>
-                  <li>
-                    <a href="/ar/contact.html">اتصل بنا</a>
-                  </li>
                 </ul>
               </div>
             </div>
             <div className="col-md-3 col-sm-6">
               <div className="Informa">
-                <h3>News</h3>
+                <h3>أخر الاخبار</h3>
                 <ul>
                   <li>It is a long established</li>
                   <li>fact that a reader will</li>
@@ -49,13 +49,12 @@ export default function FooterArabic() {
             </div>
             <div className="col-md-3 col-sm-6">
               <div className="Informa">
-                <h3>company</h3>
+                <h3>شركتنا</h3>
                 <ul>
-                  <li>It is a long established</li>
-                  <li>fact that a reader will</li>
-                  <li>be distracted by the</li>
-                  <li>readable content of a</li>
-                  <li>page when</li>
+                  <li>آي إس تي هي شركة مساهمة </li>
+                  <li>تأسست لتقديم الحلول الصناعية<br/> وحلول الطاقة الشمسية </li>
+                  <li>ومعالجة وتحلية المياة</li>
+                  <li>من خلال منتجاتنا العديدة<br/> عالية الجودة التي تم اختيارها </li>
                 </ul>
               </div>
             </div>
@@ -71,7 +70,7 @@ export default function FooterArabic() {
                         className="fa fa-map-marker"
                         aria-hidden="true"
                       ></i>{" "}
-                      Location
+                      موقعنا
                     </a>
                   </li>
                   <li>

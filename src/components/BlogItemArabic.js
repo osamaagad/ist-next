@@ -1,4 +1,4 @@
-export default function BlogItem({ title, text, src, href }) {
+export default function BlogItemArabic({ title, text, src, href }) {
   return (
     <div className="row blog-item">
       <div className="col-md-12">
@@ -13,7 +13,7 @@ export default function BlogItem({ title, text, src, href }) {
             {text}
           </p>
           <a href="./Fire-fighting-&-alrme.html" className="blog-item__link">
-            Read More
+            إ قــرا المزيد
           </a>
         </div>
       </div>

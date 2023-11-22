@@ -1,7 +1,7 @@
 import BlogItem from "@/components/BlogItem";
 
 export default function BlogPage() {
-  return <div className="we_do">
+  return (<div className="we_do">
      <div className="container">
         <div className="row">
            <div className="col-md-12">
@@ -52,4 +52,5 @@ export default function BlogPage() {
         />
      </div>
   </div>
+  );
 }

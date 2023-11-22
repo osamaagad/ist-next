@@ -6,49 +6,49 @@ export default function BlogPage() {
         <div className="row">
            <div className="col-md-12">
               <div className="titlepage text_align_center">
-                 <h2>Blog</h2>
+                 <h2>Fire Fighting Systems</h2>
               </div>
            </div>
         </div>
 
         <BlogItem
-          title="Solar systems"
-          href="/blog/solar-systems"
+          title="Water Extinguishing System"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/Water-extinguishing-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/blog-solar.jpg"
+          src="/Water Extinguishing System.jpg"
+        />
+
+<BlogItem
+          title="Gas System"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/gas-system"
+          text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
+          obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
+          modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
+          doloribus."
+          src="/Gas System.jpg"
         />
 
         <BlogItem
-          title="Water treatment"
-          href="/blog/Water-treatment"
+          title="Foam System"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/Foam-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/blod-water.webp"
+          src="/Foam-system.webp"
         />
 
         <BlogItem
-          title="Educational technology"
-          href="/blog/Educational-technology"
+          title="Powder System"
+          href="/blog/Fire-fighting-&-alarm/Fire fighting/Powder-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/blog-Education.jpg"
-        />
-
-        <BlogItem
-          title="Fire fighting systems"
-          href="/blog/Fire-fighting-&-alarm"
-          text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
-          obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
-          modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
-          doloribus."
-          src="/blog-fire-fighting.jpg"
+          src="/Powder System.jpg"
         />
      </div>
   </div>

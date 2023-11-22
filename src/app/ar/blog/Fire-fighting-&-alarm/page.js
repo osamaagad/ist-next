@@ -1,15 +1,14 @@
 import BlogItem from "@/components/BlogItem";
 
 export default function BlogPage() {
-  return (
-    <div className="we_do">
-      <div className="container">
+  return <div className="we_do">
+     <div className="container">
         <div className="row">
-          <div className="col-md-12">
-            <div className="titlepage text_align_center">
-              <h2>Fire Fighting And Fire Alarm</h2>
-            </div>
-          </div>
+           <div className="col-md-12">
+              <div className="titlepage text_align_center">
+                 <h2>Fire Fighting And Fire Alarm</h2>
+              </div>
+           </div>
         </div>
 
         <BlogItem
@@ -31,7 +30,6 @@ export default function BlogPage() {
           doloribus."
           src="/fire-alarm-system.webp"
         />
-      </div>
-    </div>
-  );
+     </div>
+  </div>
 }

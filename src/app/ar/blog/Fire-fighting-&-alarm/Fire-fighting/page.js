@@ -18,7 +18,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/Water Extinguishing System.jpg"
+          src="/Water-Extinguishing-System.jpg"
         />
 
 <BlogItem
@@ -28,7 +28,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/Gas System.jpg"
+          src="/Gas-System.jpg"
         />
 
         <BlogItem
@@ -48,7 +48,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/Powder System.jpg"
+          src="/Powder-System.jpg"
         />
      </div>
   </div>

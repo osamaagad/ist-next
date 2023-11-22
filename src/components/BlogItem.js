@@ -2,7 +2,9 @@ export default function BlogItem({ title, text, src, href }) {
   return (
     <div className="row blog-item">
       <div className="col-md-12">
-        <img src={src} alt="solar energy" className="blog-item__img" />
+        <a href={href}>
+          <img src={src} alt="solar energy" className="blog-item__img" />
+        </a>
 
         <div>
           <div className="blog-item__title">

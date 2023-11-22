@@ -1,4 +1,9 @@
+"use client"
+
+import { usePathname } from "next/navigation";
+
 export default function Navigation() {
+    const pathName = usePathname();
     return (
         <header>
             <div className="header">
@@ -36,17 +41,19 @@ export default function Navigation() {
                                             <a className="nav-link" href="/portfolio">Portfolio </a>
                                         </li>
                                         <li className="nav-item">
-                                            <a className="nav-link" href="/products">Contact Us</a>
+                                            <a className="nav-link" href="/contact">Contact Us</a>
+                                        </li>
+                                        <li className="nav-item mobile-only">
+                                            <a className="nav-link" href={`/ar${pathName}`} style={{ textAlign: 'right' }}>عربي</a>
                                         </li>
                                     </ul>
                                 </div>
                             </nav>
                         </div>
-                        <div className="col-md-2 d_none">
+                        <div className="col-md-2 d_none desktop-only">
                             <ul className="email text_align_right">
 
-                                {/* <li> <a href="#"> Login </a></li> */}
-                                <li> <a href="/ar">عربي</a></li>
+                                <li> <a href={`/ar${pathName}`}>عربي</a></li>
                                 {/* <li> <a href="#"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
                             </ul>
                         </div>

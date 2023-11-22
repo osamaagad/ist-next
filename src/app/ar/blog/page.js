@@ -1,4 +1,4 @@
-import BlogItem from "@/components/BlogItem";
+import BlogItemArabic from "@/components/BlogItemArabic"
 
 export default function BlogPage() {
   return <div className="we_do">
@@ -11,7 +11,7 @@ export default function BlogPage() {
            </div>
         </div>
 
-        <BlogItem
+        <BlogItemArabic
           title="Solar systems"
           href="/blog/solar-systems"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
@@ -21,7 +21,7 @@ export default function BlogPage() {
           src="/blog-solar.jpg"
         />
 
-        <BlogItem
+        <BlogItemArabic
           title="Water treatment"
           href="/blog/Water-treatment"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
@@ -31,7 +31,7 @@ export default function BlogPage() {
           src="/blod-water.webp"
         />
 
-        <BlogItem
+        <BlogItemArabic
           title="Educational technology"
           href="/blog/Educational-technology"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
@@ -41,7 +41,7 @@ export default function BlogPage() {
           src="/blog-Education.jpg"
         />
 
-        <BlogItem
+        <BlogItemArabic
           title="Fire fighting systems"
           href="/blog/Fire-fighting-&-alarm"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod

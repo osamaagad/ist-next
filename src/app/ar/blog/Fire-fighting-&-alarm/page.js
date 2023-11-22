@@ -18,7 +18,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/fire --fighting.jpg"
+          src="/fire---fighting.jpg"
         />
 
         <BlogItem

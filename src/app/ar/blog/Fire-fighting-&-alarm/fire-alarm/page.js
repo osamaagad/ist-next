@@ -28,7 +28,7 @@ export default function BlogPage() {
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
             doloribus."
-          src="/Mamual Call Point.jpg"
+          src="/Mamual-Call-Point.jpg"
         />
 
         <BlogItem
@@ -68,7 +68,7 @@ export default function BlogPage() {
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
             doloribus."
-          src="/Repeater Panel.jpg"
+          src="/Repeater-Panel.jpg"
         />
 
         <BlogItem

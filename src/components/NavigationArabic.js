@@ -1,4 +1,10 @@
+"use client"
+
+import { usePathname } from "next/navigation";
+
 export default function NavigationArabic() {
+    const pathName = usePathname();
+    const englishPath = pathName.replace('/ar', '');
     return (
         <header>
             <div className="header">
@@ -39,15 +45,18 @@ export default function NavigationArabic() {
                                         <li className="nav-item">
                                             <a className="nav-link" href="/ar/contact">اتصل بنا</a>
                                         </li>
+                                        <li className="nav-item mobile-only">
+                                            <a className="nav-link" href={englishPath} style={{ textAlign: 'left' }}>English</a>
+                                        </li>
                                     </ul>
                                 </div>
                             </nav>
                         </div>
-                        <div className="col-md-2 d_none">
+                        <div className="col-md-2 d_none desktop-only">
                             <ul className="email text_align_right">
 
                                 {/* <li> <a href="#"> Login </a></li> */}
-                                <li> <a href="/">English</a></li>
+                                <li> <a href={englishPath}>English</a></li>
                                 {/* <li> <a href="#"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
                             </ul>
                         </div>

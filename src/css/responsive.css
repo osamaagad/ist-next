@@ -119,7 +119,8 @@ File Name: responsive.css
         z-index: 999;
     }
     .navigation.navbar-dark .navbar-nav .nav-link {
-        padding: 10px 0;
+        padding: 16px;
+        border-bottom: 1px solid #555;
         color: #fff;
         text-align: left;
     }
@@ -240,7 +241,8 @@ File Name: responsive.css
         z-index: 999;
     }
     .navigation.navbar-dark .navbar-nav .nav-link {
-        padding: 10px 0;
+        padding: 16px;
+        border-bottom: 1px solid #555;
         color: #fff;
         text-align: left;
     }

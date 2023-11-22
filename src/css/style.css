@@ -216,7 +216,6 @@ button {
      border: #fff solid 5px;
      border-width: 5px;
      width: 80px;
-     z-index: 999;
      margin: 0 auto;
      left: 0;
      right: 0;
@@ -1097,6 +1096,14 @@ ul.social_icon li a:hover {
      gap: 16px;
 }
 
+@media (max-width: 768px) {
+     .blog-item .col-md-12 {
+          flex-direction: column;
+          text-align: center;
+          align-items: center;
+     }
+}
+
 .blog-item .col-md-12 > div {
      display: flex;
      flex-direction: column;
@@ -1494,4 +1501,18 @@ ul.social_icon li a:hover {
 .pdImgButton {
      border: 1px solid #ddd;
      padding: 0;
+}
+
+/* GENERAL */
+
+@media (min-width: 769px) {
+     .mobile-only {
+          display: none;
+     }
+}
+
+@media (max-width: 768px) {
+     .desktop-only {
+          display: none;
+     }
 }

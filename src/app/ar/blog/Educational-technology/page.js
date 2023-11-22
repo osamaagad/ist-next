@@ -16,7 +16,7 @@ export default function BlogPage() {
           title="Interactive Educational Screens "
           href="/blog/Educational-technology/Interactive-Educational-Screens"
           text="It is the latest technology in the field of smart education. As it is a touch screen and the operating system is Android that can be run on the Windows operating system, it is also equipped with an integrated educational system to help the teacher raise the level of the educational process to another level"
-          src="/Interactive Educational Screens.webp"
+          src="/Interactive-Educational-Screens.webp"
         />
 
         <BlogItem
@@ -33,7 +33,7 @@ export default function BlogPage() {
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/Smart boards.jpg"
+          src="/Smart-boards.jpg"
         />
 
         <BlogItem

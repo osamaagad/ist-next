@@ -6,49 +6,49 @@ export default function BlogPage() {
         <div className="row">
            <div className="col-md-12">
               <div className="titlepage text_align_center">
-                 <h2>Solar Systems</h2>
+                 <h2>Fire Fighting Systems</h2>
               </div>
            </div>
         </div>
 
         <BlogItem
-          title="Fire Fighting"
+          title="Water Extinguishing System"
           href="/blog/Fire-fighting-&-alarm/Fire fighting/Water-extinguishing-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/Water Extinguishing System.jpg"
         />
 
 <BlogItem
-          title="Fire Fighting"
+          title="Gas System"
           href="/blog/Fire-fighting-&-alarm/Fire fighting/gas-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/Gas System.jpg"
         />
 
         <BlogItem
-          title="Fire Fighting"
+          title="Foam System"
           href="/blog/Fire-fighting-&-alarm/Fire fighting/Foam-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/Foam-system.webp"
         />
 
         <BlogItem
-          title="Fire Fighting"
+          title="Powder System"
           href="/blog/Fire-fighting-&-alarm/Fire fighting/Powder-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
           doloribus."
-          src="/prot1.jpg"
+          src="/Powder System.jpg"
         />
      </div>
   </div>

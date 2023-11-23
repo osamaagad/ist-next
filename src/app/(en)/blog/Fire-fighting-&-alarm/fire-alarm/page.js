@@ -13,7 +13,7 @@ export default function BlogPage() {
         </div>
         <BlogItem
           title="Detectors"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/Detectors"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/Detectors"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -23,7 +23,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Mamual Call Point"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/Mamual-Call-Point"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/Mamual-Call-Point"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -33,7 +33,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Alarms"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/Alarms"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/Alarms"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -43,7 +43,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Modules"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/Modules"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/Modules"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -53,7 +53,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="FACP"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/FACP"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/FACP"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -63,7 +63,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Repeater Panel"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/Repeater-Pane"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/Repeater-Pane"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -73,7 +73,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Cables And pipeing"
-          href="/blog/Fire-fighting-&-alarm/fire alarm/Cables&pipeing"
+          href="/blog/Fire-fighting-&-alarm/fire-alarm/Cables&pipeing"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
             obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
             modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil

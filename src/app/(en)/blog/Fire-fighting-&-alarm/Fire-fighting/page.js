@@ -13,7 +13,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Water Extinguishing System"
-          href="/blog/Fire-fighting-&-alarm/Fire fighting/Water-extinguishing-system"
+          href="/blog/Fire-fighting-&-alarm/Fire-fighting/Water-extinguishing-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -23,7 +23,7 @@ export default function BlogPage() {
 
 <BlogItem
           title="Gas System"
-          href="/blog/Fire-fighting-&-alarm/Fire fighting/gas-system"
+          href="/blog/Fire-fighting-&-alarm/Fire-fighting/gas-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -33,7 +33,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Foam System"
-          href="/blog/Fire-fighting-&-alarm/Fire fighting/Foam-system"
+          href="/blog/Fire-fighting-&-alarm/Fire-fighting/Foam-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil
@@ -43,7 +43,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Powder System"
-          href="/blog/Fire-fighting-&-alarm/Fire fighting/Powder-system"
+          href="/blog/Fire-fighting-&-alarm/Fire-fighting/Powder-system"
           text="Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod
           obcaecati repellendus laboriosam labore vero ipsa et iusto dolores
           modi ex commodi eligendi repudiandae sit ea amet, hic fugiat nihil

@@ -37,7 +37,7 @@ export default function BlogPage() {
 
         <BlogItem
           title="Maintenance"
-          href="/blog/Maintenance"
+          href="/blog/Educational-technology/Maintenance"
           text="  All of these smart solutions are available, and an authorized maintenance center is also available to maintain all devices and provide all spare parts."
           src="/Maintenance.webp"
         />

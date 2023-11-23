@@ -16,14 +16,14 @@ export default function BlogPage() {
         </section>
 
         <img
-          src="/Smart boards1.jpg"
+          src="/Smart-boards1.jpg"
           alt="solar energy"
           class="blog-post__image"
         />
         
 
         <img
-          src="/Smart boards2.jpg"
+          src="/Smart-boards2.jpg"
           alt="solar energy"
           class="blog-post__image"
         />

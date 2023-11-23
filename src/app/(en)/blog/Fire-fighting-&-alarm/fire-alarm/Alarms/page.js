@@ -29,7 +29,7 @@ export default function BlogPage() {
           class="blog-post__image"
         />
         <img
-          src="/strobe light.jpg"
+          src="/strobe-light.jpg"
           alt="solar energy"
           class="blog-post__image"
         />

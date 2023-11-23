@@ -11,7 +11,7 @@ export default function BlogPage() {
         </div>
 
         <img
-          src="/Maintenance -Projectors.jpg"
+          src="/Maintenance-Projectors.jpg"
           alt="solar energy"
           class="blog-post__image"
         />

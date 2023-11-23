@@ -16,7 +16,7 @@ export default function BlogPage() {
         </section>
 
         <img
-          src="/Waste Treatment2.jpg"
+          src="/Waste-Treatment2.jpg"
           alt="solar energy"
           class="blog-post__image"
         />

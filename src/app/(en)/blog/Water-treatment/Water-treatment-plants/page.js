@@ -23,7 +23,7 @@ export default function BlogPage() {
           </p>
         </section>
 
-        <img src="/Water treatment plants1.jpg" alt="solar energy" class="blog-post__image" />
+        <img src="/Water-treatment-plants1.jpg" alt="solar energy" class="blog-post__image" />
         <section class="blog-section">
           
           <p>
@@ -39,7 +39,7 @@ export default function BlogPage() {
           </p>
         </section>
 
-        <img src="/Water treatment plants2.jpg" alt="solar energy" class="blog-post__image" />
+        <img src="/Water-treatment-plants2.jpg" alt="solar energy" class="blog-post__image" />
 
         {/* <video src="/video.mp4"></video> */}
 

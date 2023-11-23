@@ -26,10 +26,10 @@ export default function BlogPage() {
           </p>
         </section>
 
-        <img src="/Inert gas system3.jpg" alt="solar energy" class="blog-post__image" />
+        <img src="/Inert-gas-system3.jpg" alt="solar energy" class="blog-post__image" />
         
 
-        <img src="/Gas System0.jpg" alt="solar energy" class="blog-post__image" />
+        <img src="/Gas-System0.jpg" alt="solar energy" class="blog-post__image" />
 
         {/* <video src="/video.mp4"></video> */}
 

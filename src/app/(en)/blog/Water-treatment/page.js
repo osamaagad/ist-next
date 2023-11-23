@@ -32,12 +32,7 @@ export default function BlogPage() {
           src="/Water-treatment.webp"
         />
 
-        <BlogItem
-          title="Water levers"
-          href="/blog/Water-treatment/Water-levers"
-          text="Design and supervise the implementation of all levers (sanitary, industrial, and drinking). "
-          src="/Water-levers.jpg"
-        />
+        
      </div>
   </div>
 }

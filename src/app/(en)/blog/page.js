@@ -28,7 +28,7 @@ export default function BlogPage() {
         <BlogItem
           title="Educational technology"
           href="/blog/Educational-technology"
-          text="Educational technology (commonly abbreviated as edutech, or edtech) is the combined use of computer hardware, software, and educational theory and practice to facilitate learning. When referred to with its abbreviation, EdTech, it often refers to the industry of companies that create educational technology."
+          text="IST has a division specializing in educational technology. The company seeks to transform the educational process from just a student receiving education from teachers to an integrated interactive educational system in which the student is the main focus in order to keep pace with digital development through smart solutions and specialized educational programs..."
           src="/blog-Education.jpg"
         />
 

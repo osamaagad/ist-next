@@ -1381,6 +1381,37 @@ ul.social_icon li a:hover {
      gap: 16px;
 }
 
+.tagContainerClosed + .isClosed {
+     display: none;
+}
+
+.tagContainer {
+     display: flex;
+     justify-content: space-between;
+     align-items: center;
+     gap: 4px;
+}
+
+.tagContainerOpen {}
+
+.tagToggle {
+     margin-right: 4px;
+     padding: 4px 8px;
+     font-size: 16px;
+     background-color: transparent;
+     color: inherit;
+}
+
+.tagToggle:hover {
+     background-color: #ddd;
+}
+
+.tagLevel {
+     padding-left: 5px;
+     margin-left: 5px;
+     border-left: 1px solid #ddd;
+}
+
 @media (max-width: 767px) {
      .mainSplit {
           grid-template-columns: 1fr;
@@ -1514,5 +1545,95 @@ ul.social_icon li a:hover {
 @media (max-width: 768px) {
      .desktop-only {
           display: none;
+     }
+}
+
+/* ABOUT US PAGE */
+
+.about-us-page {
+     padding: 140px 8px 190px;
+     max-width: 1200px;
+     margin: 0 auto;
+}
+
+.team-section {
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: center;
+     gap: 64px;
+}
+
+
+
+.about-us-page h2 {
+     margin-top: 32px;
+     margin-bottom: 16px;
+     font-weight: bold;
+}
+
+.about-us-page p {
+     margin-top: 16px;
+     margin-bottom: 16px;
+}
+
+.team-member {
+     border-radius: 4px;
+     padding: 8px;
+     border: 1px solid #ddd;
+     display: flex;
+     flex-direction: column;
+     gap: 2px;
+     justify-content: center;
+     flex-shrink: 0;
+     text-align: center;
+     align-items: center;
+     width: 240px;
+}
+
+.team-image {
+     border-top-left-radius: 2px;
+     border-top-right-radius: 2px;
+     object-fit: cover;
+     object-position: center top;
+     width: 100%;
+     height: 260px;
+     user-select: none;
+}
+
+.about-us-page .team-name {
+     margin: 0;
+     font-size: 18px;
+     color: #000;
+     margin-top: 4px;
+     font-weight: bold;
+}
+
+.about-us-page .team-title {
+     margin: 0;
+     font-size: 16px;
+     color: #444;
+     font-weight: 600;
+     line-height: 1.5;
+     margin-top: 4px;
+     margin-bottom: 6px;
+}
+
+.about-us-page .team-subtitle {
+     margin: 0;
+     font-size: 14px;
+     color: #444;
+     font-weight: 400;
+     line-height: 1.5;
+}
+
+.team-video {
+     width: 100%;
+     height: calc((1200px * 9) / 16);
+     margin-top: 16px;
+}
+
+@media (max-width: 1199px) {
+     .team-video {
+          height: calc((98vw * 9) / 16);
      }
 }

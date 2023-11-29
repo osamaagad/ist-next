@@ -6,12 +6,27 @@ export default function ProductListPage() {
       <h2 className="productPageTitle">Solar</h2>
 
       <ProductList
+        tagItems={{
+          'Battery': {
+            'Gel': {},
+            'Lithium': {}
+          },
+          'Solar Panel': {
+            'Solar panel A': {},
+            'Solar panel B': {
+              'x': {
+                'y': {},
+                'z': {}
+              }
+            }
+          }
+        }}
         products={[
           {
             name: 'Product 1',
             href: '/products/solar/product-1',
             imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'gel battery']
+            tags: ['Battery', 'brand X', 'gel battery']
           },
           {
             name: 'Product 2',
@@ -29,13 +44,13 @@ export default function ProductListPage() {
             name: 'Product 3',
             href: '/products/solar/product-1',
             imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            tags: ['Battery', 'brand X', 'lithium battery']
           },
           {
             name: 'Product 3',
             href: '/products/solar/product-1',
             imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            tags: ['battery', 'Gel', 'lithium battery']
           },
           {
             name: 'Product 3',

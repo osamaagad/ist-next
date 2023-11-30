@@ -11,14 +11,55 @@ export default function ProductListPage() {
             'Gel': {},
             'Lithium': {}
           },
-          'Solar Panel': {
-            'Solar panel A': {},
-            'Solar panel B': {
-              'x': {
-                'y': {},
-                'z': {}
-              }
-            }
+          'Inverter': {
+            'Off Grid': {},
+            'On Grid': {},
+            'Solar Pump':{},
+            'Industerial':{}
+          },
+          'Solar Panels':{},
+          'Solar Lighting':{
+            'T T':{},
+            'Ceilling':{},
+            'Crossbow 4':{},
+            'Crossbow 5':{},
+            'Crossbow 6':{},
+            'Wawa':{},
+            'King light':{},
+
+          },
+          'Solar UPS':{
+            'Power Can':{},
+            'Smart Power':{},
+            'Smart Power':{},
+            'Made In Eygpt':{}
+          },
+          'Mounting System':{},
+          'Cables':{
+            'DC':{},
+            'AC':{}
+          },
+          'Solar Heatting':{
+            'flat plate':{},
+            'evacuated tube':{}
+          },
+          'Tracking System':{
+            'Single Axis':{},
+            'Dual Axis':{}
+          },
+          'Pump':{
+            'Submerged':{},
+            'Superficial':{}
+          },
+          'Protection':{
+            'MCB':{},
+            'MCCB':{},
+            'MC4':{},
+            'Fuse':{},
+            'SPD':{},
+            'Over/Under Voltage':{},
+            'Relay':{},
+            'Contactors':{}
           }
         }}
         products={[

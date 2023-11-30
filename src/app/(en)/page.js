@@ -780,7 +780,7 @@ export default function () {
               </div>
             </div>
             <div className="col-md-12">
-              <a className="read_more" href="portfolio.html">
+              <a className="read_more" href="/portfolio">
                 See More
               </a>
             </div>

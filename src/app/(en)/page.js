@@ -593,7 +593,7 @@ export default function () {
               </i>
               <h3>
                 FIRE FIGHTING
-                <br /> development
+                <br /> 
               </h3>
               <p>
                 The purpose of the fire-fighting check is to
@@ -619,7 +619,7 @@ export default function () {
               <h3>
                 FIRE ALARM
                 <br />
-                development
+                
               </h3>
               <p>
                 The purpose of the fire-fighting check is to

@@ -3,29 +3,18 @@ import ProductList from "@/components/ProductList";
 export default function ProductListPage() {
   return (
     <div className="productListPage">
-      <h2 className="productPageTitle">Fire System</h2>
+      <h2 className="productPageTitle">Fire Systems</h2>
 
       <ProductList
         tagItems={{
-          'Fire Pumps': {
-            'Gel': {},
-            'Lithium': {}
-          },
+          'Fire Pumps': {},
           'Sprinklers': {
-            'Off Grid': {},
-            'On Grid': {},
-            'Solar Pump':{},
-            'Industerial':{}
+            'Upright': {},
+            'Pandent': {},
           },
           'Fire Hose':{
-            'T T':{},
-            'Ceilling':{},
-            'Crossbow 4':{},
-            'Crossbow 5':{},
-            'Crossbow 6':{},
-            'Wawa':{},
-            'King light':{},
-
+            'Single':{},
+            'Dubel':{},
           },
           'Valves':{
             'Gate Valve':{},
@@ -42,18 +31,9 @@ export default function ProductListPage() {
             'Fm200':{},
             'CO2':{}
           },
-          'Portable Chemical Powder':{
-            'flat plate':{},
-            'evacuated tube':{}
-          },
-          'Portable CO2 Fire Extinguisher':{
-            'Single Axis':{},
-            'Dual Axis':{}
-          },
-          'Siamese Connection':{
-            'Submerged':{},
-            'Superficial':{}
-          },
+          'Portable Chemical Powder':{},
+          'Portable CO2 Fire Extinguisher':{},
+          'Siamese Connection':{},
           'Pipes':{
             'Seamless Pipes':{},
             'ERW Pipes':{}

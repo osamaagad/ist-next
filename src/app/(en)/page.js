@@ -360,7 +360,7 @@ export default function () {
               <i>
                 <img
                   className="tem"
-                  src="/wind energy.jpg"
+                  src="/wind-energy.jpg"
                   alt="#"
                 />
               </i>
@@ -593,7 +593,6 @@ export default function () {
               </i>
               <h3>
                 FIRE FIGHTING
-                 
               </h3>
               <p>
                 The purpose of the fire-fighting check is to
@@ -618,8 +617,6 @@ export default function () {
               </i>
               <h3>
                 FIRE ALARM
-                
-                
               </h3>
               <p>
                 The purpose of the fire-fighting check is to

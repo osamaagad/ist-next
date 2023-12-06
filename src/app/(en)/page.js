@@ -593,7 +593,7 @@ export default function () {
               </i>
               <h3>
                 FIRE FIGHTING
-                <br /> 
+                 
               </h3>
               <p>
                 The purpose of the fire-fighting check is to
@@ -618,7 +618,7 @@ export default function () {
               </i>
               <h3>
                 FIRE ALARM
-                <br />
+                
                 
               </h3>
               <p>

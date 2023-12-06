@@ -32,10 +32,10 @@ export default function () {
                           <h1>
                             I S T<br />
                             Engineering Solutions <br />
-                            and Renewabla Energy
+                            and Renewable Energy
                           </h1>
                           <p>
-                            Renewabla Energy Service <br />
+                            Renewable Energy Service <br />
                             Solar System With Applications And Wind Energy
                           </p>
                           <a className="read_more" href="about.html">
@@ -55,7 +55,7 @@ export default function () {
                           <h1>
                             I S T<br />
                             Engineering Solutions <br />
-                            and Renewabla Energy
+                            and Renewable Energy
                           </h1>
                           <p>
                             {" "}
@@ -81,7 +81,7 @@ export default function () {
                           <h1>
                             I S T<br />
                             Engineering Solutions <br />
-                            and Renewabla Energy
+                            and Renewable Energy
                           </h1>
                           <p>
                             Education Technology Service
@@ -106,7 +106,7 @@ export default function () {
                           <h1>
                             I S T<br />
                             Engineering Solutions <br />
-                            and Renewabla Energy
+                            and Renewable Energy
                           </h1>
                           <p>
                             Fier Fighting & Fire Alarm Service
@@ -587,7 +587,7 @@ export default function () {
               <i>
                 <img
                   className="tem"
-                  src="/Fire fighting.jpg"
+                  src="/Fire-fighting.jpg"
                   alt="#"
                 />
               </i>
@@ -612,7 +612,7 @@ export default function () {
               <i>
                 <img
                   className="tem"
-                  src="/fire alarm.jpg"
+                  src="/fire-alarm.jpg"
                   alt="#"
                 />
               </i>

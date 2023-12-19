@@ -7,6 +7,7 @@ export default function ProductListPage() {
 
       <ProductList
         tagItems={{
+          'Solar Panels':{},
           'Battery': {
             'Gel': {},
             'Lithium': {}
@@ -17,7 +18,6 @@ export default function ProductListPage() {
             'Solar Pump':{},
             'Industerial':{}
           },
-          'Solar Panels':{},
           'Solar Lighting':{
             'T T':{},
             'Ceilling':{},
@@ -66,19 +66,19 @@ export default function ProductListPage() {
           {
             name: 'Product 1',
             href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
+            imgUrl: '/solar-panal/longi/longi.jpeg',
             tags: ['Battery', 'brand X', 'gel battery']
           },
           {
             name: 'Product 2',
             href: '/products/solar/product-2',
-            imgUrl: '/prot1.png',
+            imgUrl: '/solar-panal/trina/trina.jpeg',
             tags: ['battery', 'brand Y', 'gel battery']
           },
           {
             name: 'Product 3',
             href: '/products/solar/product-3',
-            imgUrl: '/prot1.png',
+            imgUrl: '/solar-panal/ja/ja.jpeg',
             tags: ['battery', 'brand X', 'lithium battery']
           },
           {

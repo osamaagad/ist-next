@@ -1,0 +1,3 @@
+The OSYSU is used to monitor the open position of an OS&Y (outside screw and yoke) type gate valve. This device is available in two models; the OSYSU-1, containing one set of SPDT (Form C) contacts and the OSYSU-2, containing two sets of SPDT (Form C) contacts. These switches mount conveniently to most OS&Y valves ranging in size from 2” to 12” (50mm to 300mm). They will mount on some valves as small as ½” (12,5mm).
+
+The cover is held in place by two tamper resistant screws that require a special tool to remove. The tool is furnished with each device.

@@ -1,0 +1,1 @@
+Cla-Val 90G-21 (globe) and 90A-21 (angle) Pressure Reducing Valves automatically reduce higher inlet pressure to a steady lower outlet pressure regardless of changing flow rate and/or varying inlet pressure. The valves pilot control system is very sensitive to slight downstream pressure fluctuations, and will automatically open or close to maintain the desired pressure setting.

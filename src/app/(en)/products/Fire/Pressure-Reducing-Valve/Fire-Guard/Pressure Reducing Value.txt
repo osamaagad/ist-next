@@ -1,0 +1,4 @@
+Description
+Fireguard Pressure reducing valve maintains a preset downstream pressure, regardless of upstream pressure or flow fluctuation. The main valve is controlled by a pilot valve, which makes the main valve modulating to maintain the downstream pressure.
+
+The 200X pressure reducing valve is an intelligent valve that uses the self energy of the medium to regulate and control the pressure in pipes. The 200X pressure reducing valve can be used in domestic water supply, fire fighting water supply and other industrial water supply systems. The outlet pressure of the main valve can be regulated through the adjustment of the pressure reducing valve; the outlet pressure does not vary along with the inlet pressure and inlet flow.

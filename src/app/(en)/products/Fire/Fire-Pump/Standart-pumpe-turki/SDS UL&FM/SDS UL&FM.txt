@@ -1,0 +1,8 @@
+Design Features According to UL & FM
+
+All interior bolt or screw that are exposed to pumped liquid shall be of rolled bronze or corrosion resistant material
+The pump shall be provided with automatic air-release valve, circulation relief valve and pressure gauges
+Bearings shall have an L-10 rating of not less than 5000 hours at maximum load.
+The pumps shall be provided with at least four packing rings plus a lantern ring. The lantern ring may be permitted to replace one ring of packing.
+Impellers, wear rings, shafts, lantern rings, glands shall be made of corrosion resistant material.
+Following material specifications are applied to STANDART UL/FM fire pumps

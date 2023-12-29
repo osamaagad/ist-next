@@ -15,9 +15,9 @@ export default function ProductsPage() {
             <h2>Education</h2>
         </a>
         
-        <a className="productSection" href="/products/firefighting">
+        <a className="productSection" href="/products/Fire">
             <img src="/prot1.png" width="300" height="300" />
-            <h2>Firefighting</h2>
+            <h2>Fire Systems</h2>
         </a>
     </div>
   }

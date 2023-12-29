@@ -7,16 +7,16 @@ export default function ProductListPage() {
 
       <ProductList
         tagItems={{
-          'Solar Panels':{},
+          'Solar Panals':{},
+          'Inverter': {
+            'Solar Pump':{},
+            'On Grid': {},
+            'Off Grid': {},
+            'Industerial':{}
+          },
           'Battery': {
             'Gel': {},
             'Lithium': {}
-          },
-          'Inverter': {
-            'Off Grid': {},
-            'On Grid': {},
-            'Solar Pump':{},
-            'Industerial':{}
           },
           'Solar Lighting':{
             'T T':{},
@@ -63,77 +63,83 @@ export default function ProductListPage() {
           }
         }}
         products={[
+          // start for solar panal
           {
-            name: 'Product 1',
-            href: '/products/solar/product-1',
-            imgUrl: '/solar-panal/longi/longi.jpeg',
-            tags: ['Battery', 'brand X', 'gel battery']
+            name: 'JA',
+            href: '/products/solar/solar-panal/ja',
+            imgUrl: '/solar-panal/ja.jpeg',
+            tags: ['Solar Panals']
           },
           {
-            name: 'Product 2',
-            href: '/products/solar/product-2',
-            imgUrl: '/solar-panal/trina/trina.jpeg',
-            tags: ['battery', 'brand Y', 'gel battery']
+            name: 'LONGI',
+            href: '/products/solar/solar-panal/longi',
+            imgUrl: '/solar-panal/longi.jpeg',
+            tags: ['Solar Panals']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-3',
-            imgUrl: '/solar-panal/ja/ja.jpeg',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'TRINA',
+            href: '/products/solar/solar-panal/trina',
+            imgUrl: '/solar-panal/trina.jpeg',
+            tags: ['Solar Panals']
+          },
+          // end for solar panal
+          // start for Inverter
+                // solar pump
+          {
+            name: 'FRECON',
+            href: '/products/solar/Inverter/solar-pump/frecon',
+            imgUrl: '/solar-pump-inverter/frecon.jpeg',
+            tags: ['Inverter','Solar Pump']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['Battery', 'brand X', 'lithium battery']
+            name: 'SAJ',
+            href: '/products/solar/Inverter/solar-pump/saj',
+            imgUrl: '/solar-pump-inverter/saj1.jpeg',
+            tags: ['Inverter','Solar Pump']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'Gel', 'lithium battery']
+            name: 'VETCHI',
+            href: '/products/solar/Inverter/solar-pump/vetchi',
+            imgUrl: '/solar-pump-inverter/vetch.jpeg',
+            tags: ['Inverter','Solar Pump']
+          },
+                // On grid
+          {
+            name: 'HUAWEI',
+            href: '/products/solar/Inverter/on-grid/Huawei',
+            imgUrl: '/on-grid-inverter/huawei.jpeg',
+            tags: ['Inverter','On Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'KACO',
+            href: '/products/solar/Inverter/on-grid/kaco',
+            imgUrl:'/on-grid-inverter/kaco.jpeg',
+            tags: ['Inverter','On Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'REFUSO',
+            href: '/products/solar/Inverter/on-grid/refuso',
+            imgUrl: '/on-grid-inverter/refuso.jpeg',
+            tags: ['Inverter','On Grid']
+          },
+                // off grid
+          {
+            name: 'FRECON',
+            href: '/products/solar/Inverter/off-grid/frecon',
+            imgUrl: '/off-grid-inverter/frecon1.jpeg',
+            tags: ['Inverter','Off Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'EASTMAN',
+            href: '/products/solar/Inverter/off-grid/eastman',
+            imgUrl: '/off-grid-inverter/eastman.jpeg',
+            tags: ['Inverter','Off Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'FELICITY',
+            href: '/products/solar/Inverter/off-grid/felicity',
+            imgUrl: '/off-grid-inverter/felicity1.jpeg',
+            tags: ['Inverter','Off Grid']
           },
           {
             name: 'Product 3',

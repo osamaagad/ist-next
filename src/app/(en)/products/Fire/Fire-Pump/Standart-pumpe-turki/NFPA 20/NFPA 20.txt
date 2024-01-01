@@ -1,0 +1,53 @@
+Fire Pump Group Control System
+
+Individual control panels are used for electric pump, diesel pump and jockey pump
+Lock mechanism are used on panels
+Continuous grounding
+Pumps can run by manual control and emergency-run mechanical control on controller 
+By the help of Locked Rotor Protection (LRP), in case of locking rotor main switch is automatically shut down.
+No thermic protection on controller (except jockey pump controller)
+Alarm signals on electric pump controller (except jockey pump)
+1. pump running
+
+2. pump failure
+
+3. minimum water level(if required)
+
+4. phase reversal
+
+5. loss of phase
+
+6. power suitable
+
+7. lamp test (if required)
+
+8. audible(can be switched off) and visible(can not be switched off) alarms
+
+9. LRP
+
+Two 12 V batteries for diesel engine
+Battery chargers
+Additive alarm signals for diesel driven pumps
+1. high motor temperature
+
+2. low oil pressure
+
+3. over speed
+
+4. control is in automatic mode
+
+5. charger lamp
+
+6. failure of 1st battery
+
+7. failure of 2nd battery
+
+8. starting failure
+
+9. failure of battery charger
+
+10. engine running
+
+11. lamp test button (optional)
+
+12. audible(can be switched off) and visible(can not be switched off) alarms

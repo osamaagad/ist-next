@@ -8,15 +8,15 @@ export default function ProductListPage() {
       <ProductList
         tagItems={{
           'Solar Panels':{},
+          'Inverter': {
+            'Solar Pump':{},
+            'On Grid': {},
+            'Off Grid': {},
+            'Industerial':{}
+          },
           'Battery': {
             'Gel': {},
             'Lithium': {}
-          },
-          'Inverter': {
-            'Off Grid': {},
-            'On Grid': {},
-            'Solar Pump':{},
-            'Industerial':{}
           },
           'Solar Lighting':{
             'T T':{},

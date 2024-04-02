@@ -1,5 +1,6 @@
 import Footer from "@/components/Footer";
 import Navigation from "@/components/Navigation";
+import PartnersSection from "@/components/PartnersSection";
 import SlideSection from "@/components/SlideSection";
 
 export default function () {
@@ -575,6 +576,58 @@ export default function () {
           </div>
         </>
       </SlideSection>
+
+      
+      {/* LOGOS SECTION */}
+
+      <div className="partner-section">
+      <div className="container">
+          <div className="row">
+            <div className="col-md-12">
+              <div className="titlepage text_align_center">
+                <h2>Our Partners</h2>
+              </div>
+            </div>
+          </div>
+          </div>
+      <PartnersSection
+        isArabic
+        logos={[
+          {
+            src: '/ist-logo.webp',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/we1.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/we2.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/we3.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind3.jpg',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind1.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind2.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind-energy.jpg',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+        ]}
+      />
+      </div>
       {/* <!-- about --> */}
       {/* <!-- <div className="about">
          <div className="container">

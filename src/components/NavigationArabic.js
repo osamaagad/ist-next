@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 
 export default function NavigationArabic() {
     const pathName = usePathname();
-    const englishPath = pathName.replace('/ar', '');
+    const englishPath = pathName.replace('ar', '');
     return (
         <header>
             <div className="header">

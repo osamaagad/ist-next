@@ -1,5 +1,4 @@
-import Footer from "@/components/Footer";
-import Navigation from "@/components/Navigation";
+import PartnersSection from "@/components/PartnersSection";
 import SlideSection from "@/components/SlideSection";
 
 export default function () {
@@ -147,17 +146,14 @@ export default function () {
           </div>
         </div>
       </div>
+
       {/* <!-- end slider section --> */}
       <SlideSection title="Blog">
         <>
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -165,12 +161,10 @@ export default function () {
                 On-Grid
               </h3>
               <p>
-                On-Grid systems are solar systems that generate
-                energy only when they are connected to the
-                public electrical power network. They are
-                stations that can be installed in all
-                facilities, homes, schools, factories,
-                hospitals...etc
+                On-Grid systems are solar systems that generate energy only when
+                they are connected to the public electrical power network. They
+                are stations that can be installed in all facilities, homes,
+                schools, factories, hospitals...etc
               </p>
               <a className="read_more" href="./blog/index.html">
                 Read More
@@ -180,11 +174,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -192,10 +182,9 @@ export default function () {
                 Off-Grid
               </h3>
               <p>
-                These systems are designed for situations that
-                are not connected to the electricity grid, and
-                they provide you with energy by converting the
-                energy generated from solar panels
+                These systems are designed for situations that are not connected
+                to the electricity grid, and they provide you with energy by
+                converting the energy generated from solar panels
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -205,11 +194,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -217,11 +202,10 @@ export default function () {
                 Solar Pump
               </h3>
               <p>
-                There is no doubt that IST is solutions for
-                operating water wells with solar energy instead
-                of diesel or government electricity are the
-                ideal way to properly invest capital, as it is
-                recovered in a period not exceeding two years
+                There is no doubt that IST is solutions for operating water
+                wells with solar energy instead of diesel or government
+                electricity are the ideal way to properly invest capital, as it
+                is recovered in a period not exceeding two years
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -231,11 +215,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -243,10 +223,9 @@ export default function () {
                 Solar Heat
               </h3>
               <p>
-                Solar heaters are considered an inexpensive way
-                to exploit the heat resulting from sunlight and
-                convert it to benefit by heating the water
-                inside the solar heater
+                Solar heaters are considered an inexpensive way to exploit the
+                heat resulting from sunlight and convert it to benefit by
+                heating the water inside the solar heater
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -256,11 +235,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -268,10 +243,9 @@ export default function () {
                 Solar Light
               </h3>
               <p>
-                IST offers lighting systems that operate
-                automatically with sunset. They are independent
-                from the network and do not require additional
-                costs
+                IST offers lighting systems that operate automatically with
+                sunset. They are independent from the network and do not require
+                additional costs
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -281,11 +255,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -293,11 +263,9 @@ export default function () {
                 Battery bank
               </h3>
               <p>
-                Your battery storage needs to be large enough to
-                supply power year-round. Nothing is more
-                frustrating than suffering a power outage
-                because your battery bank doesnit store enough
-                charge
+                Your battery storage needs to be large enough to supply power
+                year-round. Nothing is more frustrating than suffering a power
+                outage because your battery bank doesnit store enough charge
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -307,11 +275,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -319,10 +283,9 @@ export default function () {
                 Tracking system
               </h3>
               <p>
-                he purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a f
+                he purpose of the fire-fighting check is to protect lives and
+                property. The state forces the owner of establishments,
+                companies and factories to implement a f
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -332,11 +295,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/solar-panel-icon.png"
-                  alt="#"
-                />
+                <img className="tem" src="/solar-panel-icon.png" alt="#" />
               </i>
               <h3>
                 SOLAR SYSTEMS
@@ -344,11 +303,10 @@ export default function () {
                 inverter cabinet
               </h3>
               <p>
-                The purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a fire-fighting system in the
-                building
+                The purpose of the fire-fighting check is to protect lives and
+                property. The state forces the owner of establishments,
+                companies and factories to implement a fire-fighting system in
+                the building
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -358,22 +316,17 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/wind-energy.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/wind-energy.jpg" alt="#" />
               </i>
               <h3>
                 WIND ENERGY
                 <br /> Wind Turbines{" "}
               </h3>
               <p>
-                Wind power is the use of air flow through wind
-                turbines to mechanically power generators for
-                electricity. Like our solar farms, wind farms
-                connect multiple turbines directly to the power
-                grid
+                Wind power is the use of air flow through wind turbines to
+                mechanically power generators for electricity. Like our solar
+                farms, wind farms connect multiple turbines directly to the
+                power grid
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -383,11 +336,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
+                <img className="tem" src="/water-treatment.png" alt="#" />
               </i>
               <h3>
                 WATER TREATMENT
@@ -395,11 +344,10 @@ export default function () {
                 Sewage Water Treatment{" "}
               </h3>
               <p>
-                We design and supervise the implementation of
-                sewage treatment plants for various production
-                capacities, and we can provide solutions and
-                studies for sewage treatment plants for small
-                and large residential complexes
+                We design and supervise the implementation of sewage treatment
+                plants for various production capacities, and we can provide
+                solutions and studies for sewage treatment plants for small and
+                large residential complexes
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -409,11 +357,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
+                <img className="tem" src="/water-treatment.png" alt="#" />
               </i>
               <h3>
                 WATER TREATMENT
@@ -421,11 +365,10 @@ export default function () {
                 Industrial Waste Treatment
               </h3>
               <p>
-                We design, construct, operate and maintain
-                industrial waste water treatment plants
-                resulting from different factories and for
-                different production capacities and different
-                pollutants (Industries A - B - C).
+                We design, construct, operate and maintain industrial waste
+                water treatment plants resulting from different factories and
+                for different production capacities and different pollutants
+                (Industries A - B - C).
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -435,11 +378,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
+                <img className="tem" src="/water-treatment.png" alt="#" />
               </i>
               <h3>
                 WATER TREATMENT
@@ -447,10 +386,9 @@ export default function () {
                 Water Treatment Plants{" "}
               </h3>
               <p>
-                ECORD Consulting Company designs and supervises
-                the implementation of water treatment plants
-                (wells - groundwater - seawater) with various
-                production capacities
+                ECORD Consulting Company designs and supervises the
+                implementation of water treatment plants (wells - groundwater -
+                seawater) with various production capacities
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -460,11 +398,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/water-treatment.png"
-                  alt="#"
-                />
+                <img className="tem" src="/water-treatment.png" alt="#" />
               </i>
               <h3>
                 WATER TREATMENT
@@ -472,8 +406,8 @@ export default function () {
                 Water Levers{" "}
               </h3>
               <p>
-                Design and supervise the implementation of all
-                levers (sanitary, industrial, and drinking).
+                Design and supervise the implementation of all levers (sanitary,
+                industrial, and drinking).
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -483,11 +417,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/education-technology.jpg" alt="#" />
               </i>
               <h3>
                 EDUCATIONAL TECHNOLOGY
@@ -495,10 +425,9 @@ export default function () {
                 Interactive Educational Screens{" "}
               </h3>
               <p>
-                It is the latest technology in the field of
-                smart education. As it is a touch screen and the
-                operating system is Android that can be run on
-                the Windows operating system
+                It is the latest technology in the field of smart education. As
+                it is a touch screen and the operating system is Android that
+                can be run on the Windows operating system
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -508,11 +437,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/education-technology.jpg" alt="#" />
               </i>
               <h3>
                 EDUCATIONAL TECHNOLOGY
@@ -520,11 +445,9 @@ export default function () {
                 Projectors
               </h3>
               <p>
-                The projector device is an optical electronic
-                device that is used to better display data,
-                using images and videos. It is also called a
-                data display device or Multimedia Projector Data
-                show
+                The projector device is an optical electronic device that is
+                used to better display data, using images and videos. It is also
+                called a data display device or Multimedia Projector Data show
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -534,11 +457,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/education-technology.jpg" alt="#" />
               </i>
               <h3>
                 EDUCATIONAL TECHNOLOGY
@@ -546,11 +465,10 @@ export default function () {
                 Smart boards
               </h3>
               <p>
-                It is a multi-use active interactive whiteboard.
-                It is accompanied by digital pens and an
-                electronic eraser. This whiteboard is connected
-                to the computer and a projector device and turns
-                into a giant computer screen
+                It is a multi-use active interactive whiteboard. It is
+                accompanied by digital pens and an electronic eraser. This
+                whiteboard is connected to the computer and a projector device
+                and turns into a giant computer screen
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -560,11 +478,7 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/education-technology.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/education-technology.jpg" alt="#" />
               </i>
               <h3>
                 EDUCATIONAL TECHNOLOGY
@@ -572,10 +486,9 @@ export default function () {
                 Maintenance
               </h3>
               <p>
-                All of these smart solutions are available, and
-                an authorized maintenance center is also
-                available to maintain all devices and provide
-                all spare parts
+                All of these smart solutions are available, and an authorized
+                maintenance center is also available to maintain all devices and
+                provide all spare parts
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -585,21 +498,14 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/Fire-fighting.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/Fire-fighting.jpg" alt="#" />
               </i>
-              <h3>
-                FIRE FIGHTING
-              </h3>
+              <h3>FIRE FIGHTING</h3>
               <p>
-                The purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a fire-fighting system in the
-                building
+                The purpose of the fire-fighting check is to protect lives and
+                property. The state forces the owner of establishments,
+                companies and factories to implement a fire-fighting system in
+                the building
               </p>
               <a className="read_more" href="we_do">
                 Read More
@@ -609,28 +515,21 @@ export default function () {
           <div className="col-md-4">
             <div id="bo_ho" className="we_box text_align_left">
               <i>
-                <img
-                  className="tem"
-                  src="/fire-alarm.jpg"
-                  alt="#"
-                />
+                <img className="tem" src="/fire-alarm.jpg" alt="#" />
               </i>
-              <h3>
-                FIRE ALARM
-              </h3>
+              <h3>FIRE ALARM</h3>
               <p>
-                The purpose of the fire-fighting check is to
-                protect lives and property. The state forces the
-                owner of establishments, companies and factories
-                to implement a fire-fighting system in the
-                building
+                The purpose of the fire-fighting check is to protect lives and
+                property. The state forces the owner of establishments,
+                companies and factories to implement a fire-fighting system in
+                the building
               </p>
               <a className="read_more" href="we_do">
                 Read More
               </a>
             </div>
           </div>
-          
+
           {/* <!-- <div className="col-md-4">
                                        <div id="bo_ho" className="we_box text_align_left">
                                           <i><img className="tem"src="/fire alarm.jpg" alt="#"/></i>
@@ -653,6 +552,57 @@ export default function () {
                                     </div> --> */}
         </>
       </SlideSection>
+
+      {/* LOGOS SECTION */}
+
+      <div className="partner-section">
+      <div className="container">
+          <div className="row">
+            <div className="col-md-12">
+              <div className="titlepage text_align_center">
+                <h2>Our Partners</h2>
+              </div>
+            </div>
+          </div>
+          </div>
+      <PartnersSection
+        logos={[
+          {
+            src: '/ist-logo.webp',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/we1.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/we2.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/we3.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind3.jpg',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind1.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind2.png',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+          {
+            src: '/wind-energy.jpg',
+            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+          },
+        ]}
+      />
+      </div>
+
       {/* <!-- about --> */}
       {/* <!-- <div className="about">
          <div className="container">

@@ -568,36 +568,20 @@ export default function () {
       <PartnersSection
         logos={[
           {
-            src: '/ist-logo.webp',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+            src: '/Our Partners/Maryzad.jpg',
+            text: 'A cooperation protocol with Maryzad whereby IST Company becomes responsible for technical support for SAJ Inverters in Egypt and the Middle East'
           },
           {
-            src: '/we1.png',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+            src: '/Our Partners/Tanmia.jpg',
+            text: 'A cooperation protocol with Tanmia Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum sector'
           },
           {
-            src: '/we2.png',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+            src: '/Our Partners/We-serve.jpg',
+            text: 'A cooperation protocol with We-Serve Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum secto'
           },
           {
-            src: '/we3.png',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
-          },
-          {
-            src: '/wind3.jpg',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
-          },
-          {
-            src: '/wind1.png',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
-          },
-          {
-            src: '/wind2.png',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
-          },
-          {
-            src: '/wind-energy.jpg',
-            text: 'There are many variations of passages of Lorem Ipsum available, but the majority have There are many variations of passages of Lorem Ipsum available, but the majority have'
+            src: '/Our Partners/Medecins.jpg',
+            text: 'A cooperation protocol with MSF whereby IST Company becomes responsible for Design & Supply Solar and Emergency Systems in Egypt and the Middle East'
           },
         ]}
       />

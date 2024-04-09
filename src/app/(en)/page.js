@@ -560,7 +560,7 @@ export default function () {
           <div className="row">
             <div className="col-md-12">
               <div className="titlepage text_align_center">
-                <h2>Our Partners</h2>
+                <h2>Our-Partners</h2>
               </div>
             </div>
           </div>
@@ -568,19 +568,19 @@ export default function () {
       <PartnersSection
         logos={[
           {
-            src: '/Our Partners/Maryzad.jpg',
+            src: '/Our-Partners/Maryzad.jpg',
             text: 'A cooperation protocol with Maryzad whereby IST Company becomes responsible for technical support for SAJ Inverters in Egypt and the Middle East'
           },
           {
-            src: '/Our Partners/Tanmia.jpg',
+            src: '/Our-Partners/Tanmia.jpg',
             text: 'A cooperation protocol with Tanmia Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum sector'
           },
           {
-            src: '/Our Partners/We-serve.jpg',
+            src: '/Our-Partners/We-serve.jpg',
             text: 'A cooperation protocol with We-Serve Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum secto'
           },
           {
-            src: '/Our Partners/Medecins.jpg',
+            src: '/Our-Partners/Medecins.jpg',
             text: 'A cooperation protocol with MSF whereby IST Company becomes responsible for Design & Supply Solar and Emergency Systems in Egypt and the Middle East'
           },
         ]}

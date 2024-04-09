@@ -585,7 +585,7 @@ export default function () {
           <div className="row">
             <div className="col-md-12">
               <div className="titlepage text_align_center">
-                <h2>Our Partners</h2>
+                <h2>Our-Partners</h2>
               </div>
             </div>
           </div>

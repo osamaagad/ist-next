@@ -577,6 +577,7 @@ ul.email li i {
 
 .video_section {
   max-width: 100vw;
+  max-height: calc(100vw * (9 / 16));
   margin: 0 auto;
   display: block;
 }

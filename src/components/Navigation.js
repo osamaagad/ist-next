@@ -53,7 +53,7 @@ export default function Navigation() {
                         <div className="col-md-2 d_none desktop-only">
                             <ul className="email text_align_right">
 
-                                <li> <a href={`/ar${pathName}`}>عربي</a></li>
+                                {/* <li> <a href={`/ar${pathName}`}>عربي</a></li> */}
                                 {/* <li> <a href="#"> <i className="fa fa-search" style="cursor: pointer;" aria-hidden="true"> </i></a> </li> */}
                             </ul>
                         </div>

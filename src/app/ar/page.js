@@ -629,18 +629,19 @@ export default function () {
       />
       </div>
       {/* <!-- about --> */}
-      {/* <!-- <div className="about">
+      <div className="about">
          <div className="container">
             <div className="row">
                <div className="col-md-12">
                   <div className="titlepage text_align_center">
-                     <h2>About Company</h2>
-                     <p>There are many variations of passages of Lorem Ipsum available, but the majority have </p>
+                     <h2>عن الطاقة الشمسية</h2>
                   </div>
+
+                  <iframe className="video_section" width="1120" height="630" src="https://www.youtube.com/embed/K939fmB5jy8?si=7H_A4ty5wjiF_QUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
                </div>
             </div>
          </div>
-      </div> --> */}
+      </div>
       <div className="container">
         <hr />
       </div>

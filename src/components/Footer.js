@@ -13,7 +13,7 @@ export default function Footer() {
                      <button className="subs_btn">Sbscribe Now</button>
                   </form>
                </div> */}
-            <div className="col-md-3 col-sm-6">
+            <div className="col-md-4 col-sm-6">
               <div className="Informa helpful">
                 <h3>Useful Link</h3>
                 <ul>
@@ -35,31 +35,18 @@ export default function Footer() {
                 </ul>
               </div>
             </div>
-            <div className="col-md-3 col-sm-6">
-              <div className="Informa">
-                <h3>News</h3>
-                <ul>
-                  <li>It is a long established</li>
-                  <li>fact that a reader will</li>
-                  <li>be distracted by the</li>
-                  <li>readable content of a</li>
-                  <li>page when</li>
-                </ul>
-              </div>
-            </div>
-            <div className="col-md-3 col-sm-6">
+            <div className="col-md-4 col-sm-6">
               <div className="Informa">
                 <h3>company</h3>
-                <ul>
-                  <li>It is a long established</li>
-                  <li>fact that a reader will</li>
-                  <li>be distracted by the</li>
-                  <li>readable content of a</li>
-                  <li>page when</li>
-                </ul>
+                <p>
+                IST is an Egyptian joint stock company established to
+                provide industrial solutions,integrated solar energy
+                solutions, and water treatment and desalination in a way
+                that suits the needs of the local and regional market
+                </p>
               </div>
             </div>
-            <div className="col-md-3 col-sm-6">
+            <div className="col-md-4 col-sm-6">
               <div className="Informa conta">
                 <h3>contact Us</h3>
                 <ul>
@@ -71,7 +58,18 @@ export default function Footer() {
                         className="fa fa-map-marker"
                         aria-hidden="true"
                       ></i>{" "}
-                      Location
+                      2030 Al Merrag , Carrefour Road , Al Maddi , Cairo, Egypt
+                    </a>
+                  </li>
+                  <li>
+                    {" "}
+                    <a href="#">
+                      {" "}
+                      <i
+                        className="fa fa-map-marker"
+                        aria-hidden="true"
+                      ></i>{" "}
+                      28 Tutankhamun , Smouha , Alexandria, Egypt
                     </a>
                   </li>
                   <li>
@@ -105,7 +103,7 @@ export default function Footer() {
               <div className="col-md-6">
                 <p>
                   © 2023 All Rights Reserved.{" "}
-                  <a href="https://html.design/"> IST Energy</a>
+                  <a href="#"> IST Energy</a>
                 </p>
               </div>
               <div className="col-md-6">

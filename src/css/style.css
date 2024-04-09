@@ -227,6 +227,13 @@ button {
   color: #323232;
 }
 
+@media (max-width: 768px) {
+  .titlepage h2 {
+    font-size: 28px;
+    line-height: 34px;
+  }
+}
+
 .read_more {
   display: inline-block;
   background: #6dcff6;

@@ -43,9 +43,9 @@ export default function Navigation() {
                                         <li className="nav-item">
                                             <a className="nav-link" href="/contact">Contact Us</a>
                                         </li>
-                                        <li className="nav-item mobile-only">
+                                        {/* <li className="nav-item mobile-only">
                                             <a className="nav-link" href={`/ar${pathName}`} style={{ textAlign: 'right' }}>عربي</a>
-                                        </li>
+                                        </li> */}
                                     </ul>
                                 </div>
                             </nav>

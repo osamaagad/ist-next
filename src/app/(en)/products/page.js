@@ -6,7 +6,7 @@ export default function ProductsPage() {
         </a>
         
         <a className="productSection" href="/products/water">
-            <img src="/prot1.png" width="300" height="300" />
+            <img src="/front-face-of-product/f-f-solar.jpg" width="300" height="300" />
             <h2>Water</h2>
         </a>
         

@@ -3,7 +3,7 @@ import ProductList from "@/components/ProductList";
 export default function ProductListPage() {
   return (
     <div className="productListPage">
-      <h2 className="productPageTitle">Solar</h2>
+      <h2 className="productPageTitle">Solar Energy</h2>
 
       <ProductList
         tagItems={{

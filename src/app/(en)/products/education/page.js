@@ -19,6 +19,12 @@ export default function ProductListPage() {
             tags: ['Interactive Display']
           },
           {
+              name: 'Newline',
+              href: '/products/education/interactive-display/newline',
+              imgUrl: '/education-product/interactive-display/newline/newline.jpg',
+              tags: ['battery', 'brand X', 'lithium battery']
+            },
+          {
             name: 'I-Board',
             href: '/products/education/interactive-whiteboard/i-board',
             imgUrl: '/education-product/interactive-whiteboard/i-board/i-board.jpg',

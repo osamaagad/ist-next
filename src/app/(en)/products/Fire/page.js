@@ -119,48 +119,12 @@ export default function ProductListPage() {
             imgUrl: '/Alarm-check-Valve/Rapidrop3.jpg',
             tags: ['Valves', 'ACV']
           },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Pro125312duct 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3adfasdf',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Prasfdadsoduct 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3adsfasdf',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
+          // {
+          //   name: 'Product 3',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
         ]}
       />
     </div>

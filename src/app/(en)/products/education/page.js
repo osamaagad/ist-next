@@ -3,180 +3,51 @@ import ProductList from "@/components/ProductList";
 export default function ProductListPage() {
   return (
     <div className="productListPage">
-      <h2 className="productPageTitle">Solar</h2>
+      <h2 className="productPageTitle">Education</h2>
 
       <ProductList
         tagItems={{
-          'Battery': {
-            'Gel': {},
-            'Lithium': {}
-          },
-          'Inverter': {
-            'Off Grid': {},
-            'On Grid': {},
-            'Solar Pump':{},
-            'Industerial':{}
-          },
-          'Solar Panels':{},
-          'Solar Lighting':{
-            'T T':{},
-            'Ceilling':{},
-            'Crossbow 4':{},
-            'Crossbow 5':{},
-            'Crossbow 6':{},
-            'Wawa':{},
-            'King light':{},
-
-          },
-          'Solar UPS':{
-            'Power Can':{},
-            'Smart Power':{},
-            'Smart Power':{},
-            'Made In Eygpt':{}
-          },
-          'Mounting System':{},
-          'Cables':{
-            'DC':{},
-            'AC':{}
-          },
-          'Solar Heatting':{
-            'flat plate':{},
-            'evacuated tube':{}
-          },
-          'Tracking System':{
-            'Single Axis':{},
-            'Dual Axis':{}
-          },
-          'Pump':{
-            'Submerged':{},
-            'Superficial':{}
-          },
-          'Protection':{
-            'MCB':{},
-            'MCCB':{},
-            'MC4':{},
-            'Fuse':{},
-            'SPD':{},
-            'Over/Under Voltage':{},
-            'Relay':{},
-            'Contactors':{}
-          }
+          'Interactive Display': {},
+          'Interactive Whiteboard': {},
+          'Projectors': {},
         }}
         products={[
           {
-            name: 'Product 1',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['Battery', 'brand X', 'gel battery']
+            name: 'Specktron',
+            href: '/products/education/interactive-display/specktron',
+            imgUrl: '/education-product/interactive-display/specktron/specktron.jpg',
+            tags: ['Interactive Display']
           },
           {
-            name: 'Product 2',
-            href: '/products/solar/product-2',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand Y', 'gel battery']
+            name: 'I-Board',
+            href: '/products/education/interactive-whiteboard/i-board',
+            imgUrl: '/education-product/interactive-whiteboard/i-board/i-board.jpg',
+            tags: ['Interactive Whiteboard']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-3',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'Epson',
+            href: '/products/education/projectors/epson',
+            imgUrl: '/education-product/projectors/epson/epson1.jpeg',
+            tags: ['Projectors']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['Battery', 'brand X', 'lithium battery']
+            name: 'In Focus',
+            href: '/products/education/projectors/in-focus',
+            imgUrl: '/education-product/projectors/in-focus/in-focus.png',
+            tags: ['Projectors']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'Gel', 'lithium battery']
+            name: 'View Sonic',
+            href: '/products/education/projectors/view-sonic',
+            imgUrl: '/education-product/projectors/view-sonic/view-sonic.png',
+            tags: ['Projectors']
           },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Pro125312duct 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3adfasdf',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Prasfdadsoduct 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
-          {
-            name: 'Product 3adsfasdf',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
-          },
+          // {
+          //   name: 'Product 3',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
         ]}
       />
     </div>

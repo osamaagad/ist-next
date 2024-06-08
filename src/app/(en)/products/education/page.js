@@ -24,12 +24,14 @@ export default function ProductListPage() {
               imgUrl: '/education-product/interactive-display/newline/newline.jpg',
               tags: ['battery', 'brand X', 'lithium battery']
             },
+
           {
             name: 'I-Board',
             href: '/products/education/interactive-whiteboard/i-board',
             imgUrl: '/education-product/interactive-whiteboard/i-board/i-board.jpg',
             tags: ['Interactive Whiteboard']
           },
+
           {
             name: 'Epson',
             href: '/products/education/projectors/epson',
@@ -48,6 +50,7 @@ export default function ProductListPage() {
             imgUrl: '/education-product/projectors/view-sonic/view-sonic.png',
             tags: ['Projectors']
           },
+          
           // {
           //   name: 'Product 3',
           //   href: '/products/solar/product-1',

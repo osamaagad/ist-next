@@ -18,12 +18,12 @@ export default function ArabicLayout({ children }) {
         <script src="/js/jquery-3.0.0.min.js"></script>
         <script src="/js/custom.js"></script>
         <GoogleAnalytics gaId="G-TC39K8PXC5" />
-      </head>
+      </head >
       <body className={`${inter.className} main-layout ar`}>
         <NavigationArabic />
         {children}
         <FooterArabic />
       </body>
-    </html>
+    </html >
   );
 }

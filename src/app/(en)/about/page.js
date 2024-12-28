@@ -88,7 +88,7 @@ export default function AboutPage() {
           />
           <p className="team-name">Mr.Ibrahim Saad</p>
           <p className="team-title">Member Of The Board Of Directors</p>
-          <p className="team-subtitle">Account Manager</p>
+          <p className="team-subtitle">Installation Manager</p>
         </div>
         <div className="team-member">
           <img

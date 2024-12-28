@@ -204,6 +204,7 @@ button {
 }
 
 .titlepage {
+  margin-top: 32px;
   padding-bottom: 60px;
   position: relative;
 }
@@ -395,7 +396,7 @@ ul.email li i {
 /** banner_main **/
 
 #top_section {
-  background-image: url("/blogsolar.jpg");
+  background-image: url("/blog-solar.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding-top: 110px;
@@ -1081,6 +1082,35 @@ ul.social_icon li a:hover {
   object-fit: cover;
   object-position: center;
   flex-shrink: 0;
+}
+
+.projectsec {
+  margin: 32px 0;
+  padding: 32px 0;
+  border-bottom: 1px solid #ddd;
+}
+
+.projectsec h2 {
+  font-size: 32px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
+
+.projectimg {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
+  gap: 8px;
+}
+
+.projectimg img {
+  height: 100%;
+  object-fit: cover;
+  object-position: center;
+}
+
+.projectyoutube {
+  width: 100%;
+  height: 500px;
 }
 
 .blog-item__link {

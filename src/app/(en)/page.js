@@ -556,7 +556,7 @@ export default function () {
       {/* LOGOS SECTION */}
 
       <div className="partner-section">
-      <div className="container">
+        <div className="container">
           <div className="row">
             <div className="col-md-12">
               <div className="titlepage text_align_center">
@@ -564,42 +564,42 @@ export default function () {
               </div>
             </div>
           </div>
-          </div>
-      <PartnersSection
-        logos={[
-          {
-            src: '/Our-Partners/Maryzad.jpg',
-            text: 'A cooperation protocol with Maryzad whereby IST Company becomes responsible for technical support for SAJ Inverters in Egypt and the Middle East'
-          },
-          {
-            src: '/Our-Partners/Tanmia.jpg',
-            text: 'A cooperation protocol with Tanmia Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum sector'
-          },
-          {
-            src: '/Our-Partners/We-serve.jpg',
-            text: 'A cooperation protocol with We-Serve Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum secto'
-          },
-          {
-            src: '/Our-Partners/Medecins.jpg',
-            text: 'A cooperation protocol with MSF whereby IST Company becomes responsible for Design & Supply Solar and Emergency Systems in Egypt and the Middle East'
-          },
-        ]}
-      />
+        </div>
+        <PartnersSection
+          logos={[
+            {
+              src: '/Our-Partners/Maryzad.jpg',
+              text: 'A cooperation protocol with Maryzad whereby IST Company becomes responsible for technical support for SAJ Inverters in Egypt and the Middle East'
+            },
+            {
+              src: '/Our-Partners/Tanmia.jpg',
+              text: 'A cooperation protocol with Tanmia Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum sector'
+            },
+            {
+              src: '/Our-Partners/We-serve.jpg',
+              text: 'A cooperation protocol with We-Serve Company whereby IST Company becomes responsible for Providing Solar Energy services for the petroleum secto'
+            },
+            {
+              src: '/Our-Partners/Medecins.jpg',
+              text: 'A cooperation protocol with MSF whereby IST Company becomes responsible for Design & Supply Solar and Emergency Systems in Egypt and the Middle East'
+            },
+          ]}
+        />
       </div>
 
       {/* <!-- about --> */}
       <div className="about">
-         <div className="container">
-            <div className="row">
-               <div className="col-md-12">
-                  <div className="titlepage text_align_center">
-                     <h2>About Solar Energy</h2>
-                  </div>
+        <div className="container">
+          <div className="row">
+            <div className="col-md-12">
+              <div className="titlepage text_align_center">
+                <h2>About Solar Energy</h2>
+              </div>
 
-                  <iframe className="video_section" width="1120" height="630" src="https://www.youtube.com/embed/K939fmB5jy8?si=7H_A4ty5wjiF_QUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-               </div>
+              <iframe className="video_section" width="1120" height="630" src="https://www.youtube.com/embed/K939fmB5jy8?si=7H_A4ty5wjiF_QUT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             </div>
-         </div>
+          </div>
+        </div>
       </div>
       <div className="container">
         <hr />
@@ -618,55 +618,59 @@ export default function () {
           <div className="row">
             <div className="col-md-6">
               <div id="ho_nf" className="portfolio_main text_align_left">
-                <figure>
-                  <img
-                    className="prot-img"
-                    src="/solar-system-proj.jpg"
-                    alt="#"
-                  />
-                  <div className="portfolio_text">
-                    <div className="li_icon">
-                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                <a href="/portfolio/solar">
+                  <figure>
+                    <img
+                      className="prot-img"
+                      src="/solar-system-proj.jpg"
+                      alt="#"
+                    />
+                    <div className="portfolio_text">
+                      <div className="li_icon">
+                        {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
                               <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      </div>
+                      <h3>SOLAR SYSTEMS</h3>
+                      <p>
+                        There are many variations of passages of Lorem Ipsum
+                        available, but the majoraity have suffered alteration in
+                        some form, by injected humour, or randomised words which
+                        don't look even slightly believable
+                      </p>
                     </div>
-                    <h3>SOLAR SYSTEMS</h3>
-                    <p>
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majoraity have suffered alteration in
-                      some form, by injected humour, or randomised words which
-                      don't look even slightly believable
-                    </p>
-                  </div>
-                </figure>
+                  </figure>
+                </a>
               </div>
             </div>
             <div className="col-md-6">
               <div id="ho_nf" className="portfolio_main text_align_left">
-                <figure>
-                  <img
-                    className="prot-img"
-                    src="/Water-Treatment-proj.jpg"
-                    alt="#"
-                  />
-                  <div className="portfolio_text">
-                    <div className="li_icon">
-                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                <a href="/portfolio/water">
+                  <figure>
+                    <img
+                      className="prot-img"
+                      src="/Water-Treatment-proj.jpg"
+                      alt="#"
+                    />
+                    <div className="portfolio_text">
+                      <div className="li_icon">
+                        {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
                               <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      </div>
+                      <h3>WATER TREATMENT</h3>
+                      <p>
+                        There are many variations of passages of Lorem Ipsum
+                        available, but the majoraity have suffered alteration in
+                        some form, by injected humour, or randomised words which
+                        don't look even slightly believable
+                      </p>
                     </div>
-                    <h3>WATER TREATMENT</h3>
-                    <p>
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majoraity have suffered alteration in
-                      some form, by injected humour, or randomised words which
-                      don't look even slightly believable
-                    </p>
-                  </div>
-                </figure>
+                  </figure>
+                </a>
               </div>
             </div>
             <div className="col-md-6">
               <div id="ho_nf" className="portfolio_main text_align_left">
-                <figure>
+                <a href="/portfolio/Educational"><figure>
                   <img
                     className="prot-img"
                     src="/education-technology-proj.jpg"
@@ -685,30 +689,32 @@ export default function () {
                       don't look even slightly believable
                     </p>
                   </div>
-                </figure>
+                </figure></a>
               </div>
             </div>
             <div className="col-md-6">
               <div id="ho_nf" className="portfolio_main text_align_left">
-                <figure>
-                  <img
-                    className="prot-img"
-                    src="/fire-fighting-proj.jpg"
-                    alt="#"
-                  />
-                  <div className="portfolio_text">
-                    <div className="li_icon">
-                      {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
+                <a href="/portfolio/fire">
+                  <figure>
+                    <img
+                      className="prot-img"
+                      src="/fire-fighting-proj.jpg"
+                      alt="#"
+                    />
+                    <div className="portfolio_text">
+                      <div className="li_icon">
+                        {/* <!--<a href="#"><i className="fa fa-search" aria-hidden="true"></i></a>-->
                               <!--<a href="#"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
+                      </div>
+                      <h3>FIRE FIGHTING</h3>
+                      <p>
+                        Pump Room including: two main pumps electrical and
+                        diesel,Main Pumps (Electrical , Diesel): 750 gpm @ 8 bar,
+                        3000 rpm. Each And Jockey Pump: 125 gpm @9 bar, 2900 rpm
+                      </p>
                     </div>
-                    <h3>FIRE FIGHTING</h3>
-                    <p>
-                      Pump Room including: two main pumps electrical and
-                      diesel,Main Pumps (Electrical , Diesel): 750 gpm @ 8 bar,
-                      3000 rpm. Each And Jockey Pump: 125 gpm @9 bar, 2900 rpm
-                    </p>
-                  </div>
-                </figure>
+                  </figure>
+                </a>
               </div>
             </div>
             <div className="col-md-12">

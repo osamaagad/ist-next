@@ -12,28 +12,12 @@ export default function ProductListPage() {
             'Solar Pump': {},
             'On Grid': {},
             'Off Grid': {},
-            'Industerial': {}
+            'Industerial': {},
+            'Boostar':{}
           },
-          'Battery': {
-            'Gel': {},
-            'Lithium': {}
-          },
-          'Solar Lighting': {
-            'T T': {},
-            'Ceilling': {},
-            'Crossbow 4': {},
-            'Crossbow 5': {},
-            'Crossbow 6': {},
-            'Wawa': {},
-            'King light': {},
-
-          },
-          'Solar UPS': {
-            'Power Can': {},
-            'Smart Power': {},
-            'Smart Power': {},
-            'Made In Eygpt': {}
-          },
+          'Solar Lighting': {},
+          'Off Grid System': {},
+          'UPS':{},
           'Mounting System': {},
           'Cables': {
             'DC': {},
@@ -50,6 +34,10 @@ export default function ProductListPage() {
           'Pump': {
             'Submerged': {},
             'Superficial': {}
+          },
+          'Battery': {
+            'Gel': {},
+            'Lithium': {}
           },
           'Protection': {
             'MCB': {},
@@ -141,13 +129,48 @@ export default function ProductListPage() {
             imgUrl: '/off-grid-inverter/felicity1.jpeg',
             tags: ['Inverter', 'Off Grid']
           },
-          // {
-          //   name: 'Product 3',
-          //   href: '/products/solar/product-1',
-          //   imgUrl: '/prot1.png',
-          //   tags: ['battery', 'brand X', 'lithium battery']
-          // },
-          
+          {
+            name: 'Product 3',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
+          {
+            name: 'Product 3',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
+          {
+            name: 'Product 3',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
+          {
+            name: 'Pro125312duct 3',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
+          {
+            name: 'Product 3adfasdf',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
+          {
+            name: 'Prasfdadsoduct 3',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
+          {
+            name: 'Product 3adsfasdf',
+            href: '/products/solar/product-1',
+            imgUrl: '/prot1.png',
+            tags: ['battery', 'brand X', 'lithium battery']
+          },
         ]}
       />
     </div>

@@ -162,6 +162,18 @@ export default function AboutPage() {
           <p className="team-title"></p>
           <p className="team-subtitle">Public Relations</p>
         </div>
+        <div className="team-member">
+          <img
+            className="team-image"
+            src="/donia-eid.jpeg"
+            width={240}
+            height={240}
+            alt=""
+          />
+          <p className="team-name">Donia Eid</p>
+          <p className="team-title"></p>
+          <p className="team-subtitle">Receptionist</p>
+        </div>
       </div>
 
       <h2><b>IST</b> services and technical support</h2>

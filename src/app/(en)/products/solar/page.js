@@ -19,24 +19,24 @@ export default function ProductListPage() {
           'Off Grid System': {},
           'UPS':{},
           'Mounting System': {},
-          'Cables': {
-            'DC': {},
-            'AC': {}
-          },
+          // 'Cables': {
+          //   'DC': {},
+          //   'AC': {}
+          // },
           'Solar Heatting': {
             'flat plate': {},
             'evacuated tube': {}
           },
-          'Tracking System': {
-            'Single Axis': {},
-            'Dual Axis': {}
-          },
+          // 'Tracking System': {
+          //   'Single Axis': {},
+          //   'Dual Axis': {}
+          // },
           'Pump': {
             'Submerged': {},
             'Superficial': {}
           },
           'Battery': {
-            'Gel': {},
+            'Gell': {},
             'Lithium': {}
           },
           'Protection': {
@@ -234,24 +234,26 @@ export default function ProductListPage() {
             imgUrl: '/KSP/kps.jpg',
             tags: ['Pump', 'Submerged']
           },
-          // {
-          //   name: 'Product 3adsfasdf',
-          //   href: '/products/solar/product-1',
-          //   imgUrl: '/prot1.png',
-          //   tags: ['battery', 'brand X', 'lithium battery']
-          // },
-          // {
-          //   name: 'Product 3adsfasdf',
-          //   href: '/products/solar/product-1',
-          //   imgUrl: '/prot1.png',
-          //   tags: ['battery', 'brand X', 'lithium battery']
-          // },
-          // {
-          //   name: 'Product 3adsfasdf',
-          //   href: '/products/solar/product-1',
-          //   imgUrl: '/prot1.png',
-          //   tags: ['battery', 'brand X', 'lithium battery']
-          // },
+          //start for Battery
+            //gell
+          {
+            name: 'EASTMAN',
+            href: '/products/solar/battery/gell/eastman',
+            imgUrl: '/battery/eastman/eastman.png',
+            tags: ['Battery','Gell']
+          },
+          {
+            name: 'MONTU',
+            href: '/products/solar/product-1',
+            imgUrl: '/battery/montu/montu.jpg',
+            tags: ['Battery','Gell']
+          },
+          {
+            name: 'JYC',
+            href: '/products/solar/battery/gell/jyc',
+            imgUrl: '/battery/jyc/jyc.webp',
+            tags: ['Battery','Gell']
+          },
           // {
           //   name: 'Product 3adsfasdf',
           //   href: '/products/solar/product-1',

@@ -130,47 +130,164 @@ export default function ProductListPage() {
             tags: ['Inverter', 'Off Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'MUST',
+            href: '/products/solar/Inverter/off-grid/must',
+            imgUrl: '/must/must.jpg',
+            tags: ['Inverter', 'Off Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'SAKO',
+            href: '/products/solar/Inverter/off-grid/sako',
+            imgUrl: '/sako/sako.webp',
+            tags: ['Inverter', 'Off Grid']
           },
           {
-            name: 'Product 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'VETCHI',
+            href: '/products/solar/Inverter/off-grid/vetchi',
+            imgUrl: '/vetchi/vetchi.jpg',
+            tags: ['Inverter', 'Off Grid']
           },
           {
-            name: 'Pro125312duct 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'SAJ',
+            href: '/products/solar/Inverter/off-grid/saj',
+            imgUrl: '/saj/saj2.png',
+            tags: ['Inverter', 'Off Grid']
+          },
+          // End for Inverter
+          // start for off-grid system
+          {
+            name: 'POWER CAN',
+            href: '/products/solar/Off-grid-system/power-can',
+            imgUrl: '/power-can/power-can2.jpeg',
+            tags: ['Off Grid System']
           },
           {
-            name: 'Product 3adfasdf',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'SMART POWER',
+            href: '/products/solar/Off-grid-system/smart-pawer',
+            imgUrl: '/smart-pawer/smart-pawer1.jpeg',
+            tags: ['Off Grid System']
           },
           {
-            name: 'Prasfdadsoduct 3',
-            href: '/products/solar/product-1',
-            imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            name: 'SMART POWER HOUSE',
+            href: '/products/solar/Off-grid-system/Smart-Power-House',
+            imgUrl: '/Smart-Power-House/Smart-Power-House.jpeg',
+            tags: ['Off Grid System']
           },
           {
-            name: 'Product 3adsfasdf',
-            href: '/products/solar/product-1',
+            name: 'CUSTOM OFF-GRID SYSTEM',
+            href: '/products/solar/Off-grid-system/Custom-off-grid-system',
             imgUrl: '/prot1.png',
-            tags: ['battery', 'brand X', 'lithium battery']
+            tags: ['Off Grid System']
           },
+          // end for Off-grid system
+          // start for solar lighting
+          {
+            name: 'BLUE SKY',
+            href: '/products/solar/solar-lighting/Blue-Sky',
+            imgUrl: '/Blue-Sky/blue-sky.jpeg',
+            tags: ['Solar Lighting']
+          },
+          {
+            name: 'CAILLING LIGHT',
+            href: '/products/solar/solar-lighting/Ceiling',
+            imgUrl: '/Ceiling/Ceiling1.jpeg',
+            tags: ['Solar Lighting']
+          },
+          {
+            name: 'CROSSBOW',
+            href: '/products/solar/solar-lighting/Crossbow',
+            imgUrl: '/Crossbow/crossbow1.jpeg',
+            tags: ['Solar Lighting']
+          },
+          {
+            name: 'KING LIGHT',
+            href: '/products/solar/solar-lighting/King-light',
+            imgUrl: '/King-light/king-light2.jpeg',
+            tags: ['Solar Lighting']
+          },
+          {
+            name: 'WAWA',
+            href: '/products/solar/solar-lighting/WAWA',
+            imgUrl: '/WAWA/wawa1.jpeg',
+            tags: ['Solar Lighting']
+          },
+          {
+            name: 'TT',
+            href: '/products/solar/solar-lighting/TT',
+            imgUrl: '/TT/tt1.jpeg',
+            tags: ['Solar Lighting']
+          },
+          // end for solar lighting
+          // start for UPS
+          {
+            name: 'CUSTOM UPS',
+            href: '/products/solar/UPS',
+            imgUrl: '/UPS/UPS.jpg',
+            tags: ['UPS']
+          },
+          // end for UPS
+          //start for pump
+            //Submerged
+          {
+            name: 'KPS',
+            href: '/products/solar/pump/Submerged/KPS',
+            imgUrl: '/KSP/kps.jpg',
+            tags: ['Pump', 'Submerged']
+          },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
+          // {
+          //   name: 'Product 3adsfasdf',
+          //   href: '/products/solar/product-1',
+          //   imgUrl: '/prot1.png',
+          //   tags: ['battery', 'brand X', 'lithium battery']
+          // },
         ]}
       />
     </div>

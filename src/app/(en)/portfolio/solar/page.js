@@ -25,28 +25,19 @@ export default function PortfolioPage() {
                <p>Uninterruptible power supply with 4800 watts of storage capacity and 2 hours of operation at a rate of 1200 watts per hour. Installed in a doctor's clinic for ultrasound devices.</p>
             </Project>
 
-            <Project
-               title="Test project"
+            {/* <Project
+               title="Ahmed Al-Sardi"
                photos={[
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/education-technology-proj.jpg'
+                  '/Ahmed-Al-Sardi/1.jpg',
+                  '/Ahmed-Al-Sardi/2.jpg',
+                  '/Ahmed-Al-Sardi/3.jpg',
+                  '/Ahmed-Al-Sardi/4.jpg',
                ]}
             >
-               <p>project details here</p>
-            </Project>
+               <p>Off-grid solar energy system consisting of cells with a capacity of ..... and an inverter with a capacity of 11,000 watts and a lithium iron phosphate battery with a storage capacity of ..... to operate a complete house containing 2 air conditioners, a refrigerator, a camera system, a washing machine, lighting, etc.</p>
+            </Project> */}
 
-            <Project
+            {/* <Project
                title="Test project"
                photos={[
                   '/solar-system-proj.jpg',
@@ -55,18 +46,7 @@ export default function PortfolioPage() {
                ]}
             >
                <p>project details here</p>
-            </Project>
-
-            <Project
-               title="Test project"
-               photos={[
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/education-technology-proj.jpg'
-               ]}
-            >
-               <p>project details here</p>
-            </Project>
+            </Project> */}
          </div>
       </div>
    );

@@ -11,7 +11,7 @@ export default function PortfolioPage() {
                   </div>
                </div>
             </div>
-            <Project
+            {/* <Project
                title="Test project"
             />
             <Project
@@ -84,7 +84,7 @@ export default function PortfolioPage() {
                ]}
             >
                <p>project details here</p>
-            </Project>
+            </Project> */}
          </div>
       </div>
    );

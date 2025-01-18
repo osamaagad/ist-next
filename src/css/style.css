@@ -698,9 +698,10 @@ ul.email li i {
 
 .portfolio_text p {
   color: #031330;
-  font-size: 17px;
+  font-size: 18px;
   line-height: 30px;
   padding-bottom: 15px;
+  font-weight: 500;
 }
 
 .portfolio .read_more {

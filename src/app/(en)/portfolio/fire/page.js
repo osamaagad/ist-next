@@ -1,6 +1,8 @@
+import { Project } from "@/components/Project";
+
 export default function PortfolioPage() {
-  return (
-    <div className="portfolio">
+   return (
+      <div className="portfolio">
          <div className="container">
             <div className="row">
                <div className="col-md-12">
@@ -9,72 +11,81 @@ export default function PortfolioPage() {
                   </div>
                </div>
             </div>
-            <div className="row">
-               <div className="col-md-6">
-                  <div id="ho_nf" className="portfolio_main text_align_left">
-                     <figure>
-                        <img className="prot-img" src="/solar-system-proj.jpg" alt="#"/>
-                        <div className="portfolio_text">
-                           <div className="li_icon">
-                              {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
-                           </div>
-                           <h3>SOLAR SYSTEMS</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majoraity have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
-                        </div>
-                     </figure>
-                  </div>
-               </div>
-               <div className="col-md-6">
-                  <div id="ho_nf" className="portfolio_main text_align_left">
-                     <figure>
-                        <img className="prot-img" src="/Water-Treatment-proj.jpg" alt="#"/>
-                        <div className="portfolio_text">
-                           <div className="li_icon">
-                              {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
-                           </div>
-                           <h3>WATER TREATMENT</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majoraity have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
-                        </div>
-                     </figure>
-                  </div>
-               </div>
-               <div className="col-md-6">
-                  <div id="ho_nf" className="portfolio_main text_align_left">
-                     <figure>
-                        <img className="prot-img" src="/education-technology-proj.jpg" alt="#"/>
-                        <div className="portfolio_text">
-                           <div className="li_icon">
-                              {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
-                           </div>
-                           <h3>EDUCATIONAL TECHNOLOGY</h3>
-                           <p>There are many variations of passages of Lorem Ipsum available, but the majoraity have suffered alteration in some form, by injected humour, or randomised words which don't look even slightly believable</p>
-                        </div>
-                     </figure>
-                  </div>
-               </div>
-               <div className="col-md-6">
-                  <div id="ho_nf" className="portfolio_main text_align_left">
-                     <figure>
-                        <img className="prot-img" src="/prot4.jpg" alt="#"/>
-                        <div className="portfolio_text">
-                           <div className="li_icon">
-                              {/* <!--<a href="Javascript:void(0)"><i className="fa fa-search" aria-hidden="true"></i></a>-->
-                              <!--<a href="Javascript:void(0)"><i className="fa fa-link" aria-hidden="true"></i></a>--> */}
-                           </div>
-                           <h3>FIRE FIGHTING</h3>
-                           <p>Pump Room including: two main pumps electrical and diesel,Main Pumps (Electrical , Diesel): 750 gpm @ 8 bar, 3000 rpm. Each And Jockey Pump: 125  gpm  @9 bar, 2900 rpm</p>
-                        </div>
-                     </figure>
-                  </div>
-               </div>
-               <div className="col-md-12">
-                  <a className="read_more" href="portfolio.html">See More</a>
-               </div>
-            </div>
+            <Project
+               title="Test project"
+            />
+            <Project
+               title="Test project"
+            >sadfasdfasd</Project>
+
+            <Project
+               title="Test project"
+               photos={[
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/education-technology-proj.jpg'
+               ]}
+            >
+               <p>lorefdsSdfsdfsdfsdfsdf</p>
+               <iframe className="projectyoutube" width="560" height="315" src="https://www.youtube.com/embed/L190UWL934c?si=PzBQ4vmC0-qBV10o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </Project>
+
+            <Project
+               title="Test project"
+               photos={[
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/education-technology-proj.jpg'
+               ]}
+            >
+               <p>project details here</p>
+            </Project>
+
+            <Project
+               title="Test project"
+               photos={[
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/education-technology-proj.jpg'
+               ]}
+            >
+               <p>project details here</p>
+            </Project>
+
+            <Project
+               title="Test project"
+               photos={[
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/education-technology-proj.jpg'
+               ]}
+            >
+               <p>project details here</p>
+            </Project>
+
+            <Project
+               title="Test project"
+               photos={[
+                  '/solar-system-proj.jpg',
+                  '/Water-Treatment-proj.jpg',
+                  '/education-technology-proj.jpg'
+               ]}
+            >
+               <p>project details here</p>
+            </Project>
          </div>
       </div>
-  );
+   );
 }

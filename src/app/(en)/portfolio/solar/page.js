@@ -13,6 +13,9 @@ export default function PortfolioPage() {
             </div>
             <Project
                title="Dr Ahmed Al-Maysari"
+               photo={[
+                  '/dr-ahmed-elmesery/0.jpg',
+               ]}
                photos={[
                   // '/dr-ahmed-elmesery/a.jpg',
                   '/dr-ahmed-elmesery/ab.jpg',
@@ -25,17 +28,25 @@ export default function PortfolioPage() {
                <p>Uninterruptible power supply with 4800 watts of storage capacity and 2 hours of operation at a rate of 1200 watts per hour. Installed in a doctor's clinic for ultrasound devices.</p>
             </Project>
 
-            {/* <Project
-               title="Ahmed Al-Sardi"
+            <Project
+               title="Riyadh-Real-Estate-Development-Company"
+               photo={[
+                  '/Riyadh-Real-Estate-Development-Company/0.jpg',
+               ]}
                photos={[
-                  '/Ahmed-Al-Sardi/1.jpg',
-                  '/Ahmed-Al-Sardi/2.jpg',
-                  '/Ahmed-Al-Sardi/3.jpg',
-                  '/Ahmed-Al-Sardi/4.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/1.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/2.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/3.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/4.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/5.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/6.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/7.jpg',
+                  '/Riyadh-Real-Estate-Development-Company/8.jpg',
                ]}
             >
-               <p>Off-grid solar energy system consisting of cells with a capacity of ..... and an inverter with a capacity of 11,000 watts and a lithium iron phosphate battery with a storage capacity of ..... to operate a complete house containing 2 air conditioners, a refrigerator, a camera system, a washing machine, lighting, etc.</p>
-            </Project> */}
+               <p>UPS system with a storage capacity of 9600 watts and an operating capacity of up to 2400 watts per hour to operate a group of computers and printers</p>
+               
+            </Project>
 
             {/* <Project
                title="Test project"

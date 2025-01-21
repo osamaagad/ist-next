@@ -1102,11 +1102,18 @@ ul.social_icon li a:hover {
   grid-template-columns: repeat(auto-fill, minmax(360px, 1fr));
   gap: 8px;
 }
-
 .projectimg img {
   height: 100%;
   object-fit: cover;
   object-position: center;
+}
+.projectimgone{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: center;
+  margin-top: 8px;
+  margin-bottom: 8px;
 }
 
 .projectyoutube {

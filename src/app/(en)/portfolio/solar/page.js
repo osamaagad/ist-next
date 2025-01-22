@@ -34,7 +34,6 @@ export default function PortfolioPage() {
                   '/Riyadh-Real-Estate-Development-Company/0.jpg',
                ]}
                photos={[
-                  '/Riyadh-Real-Estate-Development-Company/1.jpg',
                   '/Riyadh-Real-Estate-Development-Company/2.jpg',
                   '/Riyadh-Real-Estate-Development-Company/3.jpg',
                   '/Riyadh-Real-Estate-Development-Company/4.jpg',

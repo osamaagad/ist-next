@@ -11,6 +11,7 @@ export default function PortfolioPage() {
                   </div>
                </div>
             </div>
+            {/* Dr Ahmed Elmesery */}
             <Project
                title="Dr Ahmed Al-Maysari"
                photo={[
@@ -27,6 +28,7 @@ export default function PortfolioPage() {
             >
                <p>Uninterruptible power supply with 4800 watts of storage capacity and 2 hours of operation at a rate of 1200 watts per hour. Installed in a doctor's clinic for ultrasound devices.</p>
             </Project>
+            {/* Riyadh Real Estate Development Company */}
 
             <Project
                title="Riyadh-Real-Estate-Development-Company"
@@ -48,11 +50,13 @@ export default function PortfolioPage() {
             </Project>
 
             {/* <Project
-               title="Test project"
+               title="Lava Charcoal"
                photos={[
-                  '/solar-system-proj.jpg',
-                  '/Water-Treatment-proj.jpg',
-                  '/education-technology-proj.jpg'
+                  '/Lava/1.jpg',
+                  '/Lava/2.jpg',
+                  '/Lava/3.jpg',
+                  '/Lava/4.jpg',
+
                ]}
             >
                <p>project details here</p>

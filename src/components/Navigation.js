@@ -61,7 +61,6 @@ export default function Navigation() {
                 </div>
             </div>
             
-      <p className="under-construction">Website under construction</p>
         </header>
     );
 }
